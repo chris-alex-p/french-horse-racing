@@ -1,0 +1,1081 @@
+{
+	"guid": "20231216_VIN_2",
+	"odds": [
+		{
+			"cheval": {
+				"nom_cheval": "LAGNU MAG",
+				"intention_deferrer": "fer. ant./plaq. post."
+			},
+			"rapp_evol": 54,
+			"num_partant": 1
+		},
+		{
+			"cheval": {
+				"nom_cheval": "LUCKY JACKSON",
+				"intention_deferrer": "plaqué des 4"
+			},
+			"rapp_evol": 6.6,
+			"num_partant": 2
+		},
+		{
+			"uuid": "5f55488d-2f95-4b71-b68b-d389346f7ed0",
+			"cheval": {
+				"nom_cheval": "LOVINO BELLO",
+				"intention_deferrer": "plaqué des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 11,
+			"rapp_evol": 10,
+			"num_partant": 3,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "352aaf96-fc7a-4ec3-92b6-8f8c0067a4c9",
+			"cheval": {
+				"nom_cheval": "LASH PERRINE",
+				"intention_deferrer": "plaq. ant./fer. post."
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 14,
+			"rapp_evol": 16,
+			"num_partant": 4,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "ed474bf3-fb36-4e8d-a36f-ab3fddf6a3e6",
+			"cheval": {
+				"nom_cheval": "LOULOU DE MYE",
+				"intention_deferrer": "ferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 16,
+			"rapp_evol": 24,
+			"num_partant": 5,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "a887c906-c36e-4cdc-a1b2-9f935552f8d4",
+			"cheval": {
+				"nom_cheval": "LARGO DE CASTELLE",
+				"intention_deferrer": "ferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 29,
+			"rapp_evol": 51,
+			"num_partant": 6,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "0c3f97ad-c7b4-4148-a447-059cbb038318",
+			"cheval": {
+				"nom_cheval": "LITTLE BROWN",
+				"intention_deferrer": "ferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"num_partant": 7,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00"
+		},
+		{
+			"uuid": "07a79ef6-e45d-4d9e-88cd-5b19ed22fe57",
+			"cheval": {
+				"nom_cheval": "LEMON TREE",
+				"intention_deferrer": "plaqué des 4"
+			},
+			"favori": true,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 2.8,
+			"rapp_evol": 2.4,
+			"num_partant": 8,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "24afd484-2f28-4728-b5b6-c10f343bca5b",
+			"cheval": {
+				"nom_cheval": "LUCIANO MENUET",
+				"intention_deferrer": "ferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 2.3,
+			"rapp_evol": 2.5,
+			"num_partant": 9,
+			"heure_rap_evol": "2024-04-22T14:00:00+02:00",
+			"tendance_signe": "+"
+		}
+	],
+	"groupe": "GROUPE II",
+	"is_pmh": false,
+	"notule": {
+		"uuid": "8d9d04ec-6a75-442e-8281-557876d577a2",
+		"author": {
+			"slug": "bruno-raucourt",
+			"uuid": "bd69939d-9c18-4269-bc7f-43d1203ec335",
+			"lastname": "Raucourt",
+			"class_key": 3,
+			"firstname": "Bruno",
+			"is_journalist": true
+		},
+		"status": "published",
+		"analyse": "LOVINO BELLO (3) progresse dans la montée puis prolonge son effort pour prendre la mesure de ses adversaires avec une certaine facilité pour finir.  Relayé par  LUCKY JACKSON (2) dans la montée, LEMON TREE (8) finit bien et s'empare du premier accessit devant LOULOU DE MYE (5), qui conclut fort convenablement son parcours à l'inverse de LUCKY JACKSON (2), classé ensuite.",
+		"accroche": "LOVINO BELLO (3) se montre le plus appliqué",
+		"updated_at": "2023-12-16T14:25:04+01:00",
+		"notule_partants": [
+			{
+				"uuid": "7ca36ded-ebe2-4c30-94c2-2f37ceaf3d51",
+				"texte": "Suivait sur une troisième ligne à la corde lorsqu'il s'est désuni dans la descente où il a été disqualifié.",
+				"partant": {
+					"uuid": "21bd4864-646c-4b40-b079-53da408167cb",
+					"monte": {
+						"nom_monte": "M. ABRIVARD"
+					},
+					"cheval": {
+						"uuid": "027e831b-5a87-4768-82bb-3bdb1536e956",
+						"nom_cheval": "LAGNU MAG"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p1-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 1,
+					"statut_part": "DP",
+					"statut_part_pcc": "DP",
+					"texte_place_arrivee": "Disqualifié"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "5fe00fc1-6ee4-4aed-8461-01a2bbc4c9fe",
+				"texte": "Rapproché pour aborder la montée, a relayé l'animateur LEMON TREE avant d'être pris de vitesse par LOVINO BELLO à la sortie du dernier tournant et de terminer à son rythme ensuite.",
+				"partant": {
+					"uuid": "4ada22a6-951b-4daf-a11a-4cb3b1c4367f",
+					"monte": {
+						"nom_monte": "J.M. BAZIRE"
+					},
+					"cheval": {
+						"uuid": "bf3e60fe-15df-4d3d-bfa7-e575fabd1f84",
+						"nom_cheval": "LUCKY JACKSON"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p2-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 2,
+					"statut_part": "DP",
+					"reduction_km": "1'15\"50",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "04",
+					"texte_place_arrivee": "04"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "84428cd9-a890-4ba8-be86-81f718d29e1f",
+				"texte": "Rapproché dans le sillage de  LUCIANO MENUET dans la montée, s'est décalé dans le dernier tournant et a bien sprinté, ne tardant pas à créer la décision.",
+				"partant": {
+					"uuid": "f6e924ad-a033-4f80-be92-3a24e6881599",
+					"monte": {
+						"nom_monte": "E. RAFFIN"
+					},
+					"cheval": {
+						"uuid": "c42b32ab-dd93-44df-b1b8-9e4309d8c438",
+						"nom_cheval": "LOVINO BELLO"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p3-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 3,
+					"statut_part": "DP",
+					"reduction_km": "1'14\"80",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "01",
+					"texte_place_arrivee": "01"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "969cb0ab-b7ec-4503-93fe-d46f588270b4",
+				"texte": "A complètement manqué sa mise en jambes.",
+				"partant": {
+					"uuid": "d5820d76-4323-471d-b8fd-fad846ee3519",
+					"monte": {
+						"nom_monte": "F. NIVARD"
+					},
+					"cheval": {
+						"uuid": "f3fff9b7-ee43-4f54-96f2-37f7888c13c7",
+						"nom_cheval": "LASH PERRINE"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p4-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 4,
+					"statut_part": "DP",
+					"reduction_km": "1'23\"00",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "06",
+					"texte_place_arrivee": "06"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "f7966004-8a47-41ef-9016-07bf67aad52b",
+				"texte": "Dans le sillage de LEMON TREE qui suivait l'animateur LUCKY JACKSON dans la montée, a suivi le mouvement à l'entrée de la ligne droite et a bien tenu sa partie jusqu'au bout.",
+				"partant": {
+					"uuid": "b40b4eba-05cf-496b-917c-24f76bd6a644",
+					"monte": {
+						"nom_monte": "R.CH. LARUE"
+					},
+					"cheval": {
+						"uuid": "f7221d4e-2de7-40fe-8a82-97e1a175983c",
+						"nom_cheval": "LOULOU DE MYE"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p5-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 5,
+					"statut_part": "DP",
+					"reduction_km": "1'15\"20",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "03",
+					"texte_place_arrivee": "03"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "c743e6d2-9417-4c20-a800-3114df77e327",
+				"texte": "A pour ainsi dire toujours fermé la marche du petit peloton, sans pouvoir faire illusion pour un meilleur classement.",
+				"partant": {
+					"uuid": "ba707df1-58be-4ab1-a383-183556c4096d",
+					"monte": {
+						"nom_monte": "F. LAGADEUC"
+					},
+					"cheval": {
+						"uuid": "962b40c8-f932-4ac8-aafd-bdbb35af8c6a",
+						"nom_cheval": "LARGO DE CASTELLE"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p6-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 6,
+					"statut_part": "DP",
+					"reduction_km": "1'15\"70",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "05",
+					"texte_place_arrivee": "05"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "f006fe5e-4093-42cd-a3b6-3fe606427d79",
+				"texte": "NON PARANT.",
+				"partant": {
+					"uuid": "0ab26c40-952a-46a1-8c39-f40447e722db",
+					"monte": {
+						"nom_monte": "D. THOMAIN"
+					},
+					"cheval": {
+						"uuid": "4676d03e-3e56-4a25-83b8-cbcb8c9ed1fe",
+						"nom_cheval": "LITTLE BROWN"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p7-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 7,
+					"statut_part": "NP",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "Non partant",
+					"texte_place_arrivee": "Non Partant"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "f6ac3406-f09e-48a5-a8dd-e2aa1a3810b4",
+				"texte": "Vite en tête, a été relayé par LUCKY JACKSON pour aborder le montée puis a suivi le mouvement dans le dernier tournant mais sans pouvoir mettre en doute la supériorité de LOVINO BELLO pour finir.",
+				"partant": {
+					"uuid": "ea588bfc-04e7-4c87-bae9-ec7d5d995a0d",
+					"monte": {
+						"nom_monte": "B. ROCHARD"
+					},
+					"cheval": {
+						"uuid": "e7b6d411-b6b8-4cfa-8dce-61d19e761e92",
+						"nom_cheval": "LEMON TREE"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p8-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 8,
+					"statut_part": "DP",
+					"reduction_km": "1'15\"10",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "02",
+					"texte_place_arrivee": "02"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "4975ee00-ac57-4232-8a26-4a7042310079",
+				"texte": "Toujours là, a rejoint l'animateur LUCKY JACKSON dans la montée et ne semblait pas battu lorsqu'il s'est mis au galop peu avant l'entrée de la ligne droite où il a été disqualifié.",
+				"partant": {
+					"uuid": "d3ed3337-1589-425f-9230-9751e228aac5",
+					"monte": {
+						"nom_monte": "A. ABRIVARD"
+					},
+					"cheval": {
+						"uuid": "a36dd3de-4903-4c2c-89d9-38da8c2482a8",
+						"nom_cheval": "LUCIANO MENUET"
+					},
+					"casaque": {
+						"slug": "20231216-r1c2p9-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 9,
+					"statut_part": "DP",
+					"statut_part_pcc": "DP",
+					"texte_place_arrivee": "Disqualifié"
+				},
+				"impression_active": false
+			}
+		]
+	},
+	"pronos": {
+		"type": "analysis_by_horse",
+		"uuid": "5fad94c5-f6fe-4626-b858-bda65bfc6b48",
+		"bases": [
+			9,
+			8
+		],
+		"status": "published",
+		"chapeau": "LUCIANO MENUET (9) peut être considéré comme le leader de sa promotion et devrait effacer sa récente bévue. LEMON TREE (8), plaqué pour la première fois, conduira de nouveau l'opposition avec LITTLE BROWN (7), second atout de Philippe Allaire, et LUCKY JACKSON (2), qui s'affirme.",
+		"creator": {
+			"slug": "tanguy-bernier",
+			"uuid": "17a940db-301e-4b54-a59a-f36f709f5c97",
+			"lastname": "Bernier",
+			"class_key": 3,
+			"firstname": "Tanguy"
+		},
+		"bet_links": {
+			"zeturf": "https://www.zeturf.fr/fr/course/2023-12-16/R1C2-equidia?prefill=12:9-8-2-3-5&pid=311&aff=202331101"
+		},
+		"delaisses": [],
+		"outsiders": [
+			3,
+			5,
+			6,
+			4,
+			1
+		],
+		"validated": true,
+		"difficulty": 1,
+		"published_at": "2023-12-14T12:19:58+01:00",
+		"validated_at": "2023-12-14T13:36:00+01:00",
+		"belles_chances": [
+			2,
+			7
+		],
+		"pronostic_analyses": [
+			{
+				"cheval": {
+					"slug": "lash-perrine",
+					"uuid": "f3fff9b7-ee43-4f54-96f2-37f7888c13c7",
+					"casaque": {
+						"slug": "20240218-r1c7p8-png",
+						"updated_at": "2024-02-16T12:55:52+01:00"
+					},
+					"nom_cheval": "LASH PERRINE"
+				},
+				"partant": {
+					"uuid": "d5820d76-4323-471d-b8fd-fad846ee3519",
+					"casaque": {
+						"slug": "20231216-r1c2p4-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 4
+				},
+				"position": 7,
+				"num_partant": 4,
+				"note_numerique": 1,
+				"cote_journaliste": 17
+			},
+			{
+				"cheval": {
+					"slug": "lagnu-mag",
+					"uuid": "027e831b-5a87-4768-82bb-3bdb1536e956",
+					"casaque": {
+						"slug": "20240413-r1c2p8-png",
+						"updated_at": "2024-04-11T16:00:20+02:00"
+					},
+					"nom_cheval": "LAGNU MAG"
+				},
+				"partant": {
+					"uuid": "21bd4864-646c-4b40-b079-53da408167cb",
+					"casaque": {
+						"slug": "20231216-r1c2p1-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 1
+				},
+				"position": 8,
+				"num_partant": 1,
+				"note_numerique": 1,
+				"cote_journaliste": 28
+			},
+			{
+				"cheval": {
+					"slug": "luciano-menuet",
+					"uuid": "a36dd3de-4903-4c2c-89d9-38da8c2482a8",
+					"casaque": {
+						"slug": "20240218-r1c7p11-png",
+						"updated_at": "2024-02-16T12:55:52+01:00"
+					},
+					"nom_cheval": "LUCIANO MENUET"
+				},
+				"partant": {
+					"uuid": "d3ed3337-1589-425f-9230-9751e228aac5",
+					"casaque": {
+						"slug": "20231216-r1c2p9-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 9
+				},
+				"position": 1,
+				"num_partant": 9,
+				"analysis_horse": "Il tenait LEMON TREE (8) en respect quand il s'est enlevé pour finir dans le Prix Timoko (Gr.3), le 25 novembre. Il peut reprendre le cours de ses succès.",
+				"note_numerique": 3,
+				"cote_journaliste": 3.2
+			},
+			{
+				"cheval": {
+					"slug": "lovino-bello",
+					"uuid": "c42b32ab-dd93-44df-b1b8-9e4309d8c438",
+					"casaque": {
+						"slug": "20240218-r1c7p13-png",
+						"updated_at": "2024-02-16T12:55:52+01:00"
+					},
+					"nom_cheval": "LOVINO BELLO"
+				},
+				"partant": {
+					"uuid": "f6e924ad-a033-4f80-be92-3a24e6881599",
+					"casaque": {
+						"slug": "20231216-r1c2p3-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 3
+				},
+				"position": 4,
+				"num_partant": 3,
+				"note_numerique": 1,
+				"cote_journaliste": 9.9
+			},
+			{
+				"cheval": {
+					"slug": "little-brown",
+					"uuid": "4676d03e-3e56-4a25-83b8-cbcb8c9ed1fe",
+					"casaque": {
+						"slug": "20240419-r1c3p7-png",
+						"updated_at": "2024-04-19T07:34:07+02:00"
+					},
+					"nom_cheval": "LITTLE BROWN"
+				},
+				"partant": {
+					"uuid": "0ab26c40-952a-46a1-8c39-f40447e722db",
+					"casaque": {
+						"slug": "20231216-r1c2p7-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 7
+				},
+				"position": 9,
+				"num_partant": 7,
+				"analysis_horse": "Non Partant",
+				"non_partant_at": "2023-12-15T15:59:06+01:00",
+				"note_numerique": 2,
+				"cote_journaliste": 5.9
+			},
+			{
+				"cheval": {
+					"slug": "largo-de-castelle",
+					"uuid": "962b40c8-f932-4ac8-aafd-bdbb35af8c6a",
+					"casaque": {
+						"slug": "20240419-r1c3p6-png",
+						"updated_at": "2024-04-19T07:34:07+02:00"
+					},
+					"nom_cheval": "LARGO DE CASTELLE"
+				},
+				"partant": {
+					"uuid": "ba707df1-58be-4ab1-a383-183556c4096d",
+					"casaque": {
+						"slug": "20231216-r1c2p6-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 6
+				},
+				"position": 6,
+				"num_partant": 6,
+				"note_numerique": 1,
+				"cote_journaliste": 15
+			},
+			{
+				"cheval": {
+					"slug": "loulou-de-mye",
+					"uuid": "f7221d4e-2de7-40fe-8a82-97e1a175983c",
+					"casaque": {
+						"slug": "20240218-r1c7p10-png",
+						"updated_at": "2024-02-16T12:55:52+01:00"
+					},
+					"nom_cheval": "LOULOU DE MYE"
+				},
+				"partant": {
+					"uuid": "b40b4eba-05cf-496b-917c-24f76bd6a644",
+					"casaque": {
+						"slug": "20231216-r1c2p5-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 5
+				},
+				"position": 5,
+				"num_partant": 5,
+				"note_numerique": 1,
+				"cote_journaliste": 12
+			},
+			{
+				"cheval": {
+					"slug": "lemon-tree",
+					"uuid": "e7b6d411-b6b8-4cfa-8dce-61d19e761e92",
+					"casaque": {
+						"slug": "20240218-r1c7p12-png",
+						"updated_at": "2024-02-16T12:55:52+01:00"
+					},
+					"nom_cheval": "LEMON TREE"
+				},
+				"partant": {
+					"uuid": "ea588bfc-04e7-4c87-bae9-ec7d5d995a0d",
+					"casaque": {
+						"slug": "20231216-r1c2p8-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 8
+				},
+				"position": 2,
+				"num_partant": 8,
+				"analysis_horse": "Il sera plaqué pour la première fois et va tenter de confirmer son succès dans le Prix Timoko (Gr.3).",
+				"note_numerique": 3,
+				"cote_journaliste": 4.1
+			},
+			{
+				"cheval": {
+					"slug": "lucky-jackson",
+					"uuid": "bf3e60fe-15df-4d3d-bfa7-e575fabd1f84",
+					"casaque": {
+						"slug": "20240419-r1c3p3-png",
+						"updated_at": "2024-04-19T07:34:07+02:00"
+					},
+					"nom_cheval": "LUCKY JACKSON"
+				},
+				"partant": {
+					"uuid": "4ada22a6-951b-4daf-a11a-4cb3b1c4367f",
+					"casaque": {
+						"slug": "20231216-r1c2p2-png",
+						"updated_at": "2023-12-14T15:32:10+01:00"
+					},
+					"num_partant": 2
+				},
+				"position": 3,
+				"num_partant": 2,
+				"analysis_horse": "Ce propre frère d'Héraut d'Armes vient d'ouvrir son palmarès dans un bon style et va tenter de confirmer ses progrès.",
+				"note_numerique": 2,
+				"cote_journaliste": 8.1
+			}
+		],
+		"last_auto_non_partant_at": "2023-12-16T14:15:16+01:00"
+	},
+	"reunion": {
+		"is_pmh": false,
+		"flux_url": "racing1",
+		"flux_type": "RACING",
+		"hippodrome": {
+			"name": "PARIS-VINCENNES",
+			"country_code": "FRA"
+		},
+		"is_premium": true,
+		"flux_active": true,
+		"lib_reunion": "PARIS-VINCENNES",
+		"num_courses": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7,
+			8,
+			9
+		],
+		"num_reunion": 1,
+		"date_reunion": "2023-12-16",
+		"meteo_vent_force": "1",
+		"heure_fin_reunion": "19:10",
+		"meteo_temperature": "9",
+		"specialite_reunion": "Trot",
+		"heure_reunion_racing": "12:48",
+		"meteo_vent_direction": {
+			"label": "Nord"
+		},
+		"meteo_nebulosite_code": "P1",
+		"meteo_nebulosite_libelle_court": "Soleil"
+	},
+	"tracked": true,
+	"distance": 2700,
+	"parcours": {
+		"slug": "20231216_vin-r1c2-png",
+		"updated_at": "2023-12-14T12:20:07+01:00"
+	},
+	"partants": [
+		{
+			"monte": {
+				"nom_monte": "M. ABRIVARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "lagnu-mag",
+				"uuid": "027e831b-5a87-4768-82bb-3bdb1536e956",
+				"musique": "3ADA(23)DADA4A3A4A5A6A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "B. BOURGOIN"
+				},
+				"nom_cheval": "LAGNU MAG",
+				"sexe_cheval": "M",
+				"gains_carriere": 27110
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p1-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P1"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "B. BOURGOIN"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p1-png",
+			"num_partant": 1,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"attache_langue": false,
+			"gains_carriere": 21090,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "7",
+			"texte_place_arrivee": "Disqualifié",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "J.M. BAZIRE"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "lucky-jackson",
+				"uuid": "bf3e60fe-15df-4d3d-bfa7-e575fabd1f84",
+				"musique": "6A7A2ADA(23)4A1A2A6ADA",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "J.M. BAZIRE"
+				},
+				"nom_cheval": "LUCKY JACKSON",
+				"sexe_cheval": "M",
+				"gains_carriere": 55790
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p2-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P2"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "J.M. BAZIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p2-png",
+			"temps_part": "3'23\"97",
+			"num_partant": 2,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"reduction_km": "1'15\"50",
+			"attache_langue": false,
+			"gains_carriere": 30040,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "4",
+			"num_place_arrivee": "04",
+			"texte_place_arrivee": "04",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "E. RAFFIN"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "lovino-bello",
+				"uuid": "c42b32ab-dd93-44df-b1b8-9e4309d8c438",
+				"musique": "1A(23)1A2A3A1ADA1A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "J. ROBERT"
+				},
+				"nom_cheval": "LOVINO BELLO",
+				"sexe_cheval": "M",
+				"gains_carriere": 153395
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p3-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P3"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "J. ROBERT"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p3-png",
+			"temps_part": "3'22\"01",
+			"last_itw_ap": {
+				"video_id": "231216-ITWAPR1C2P3"
+			},
+			"num_partant": 3,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"reduction_km": "1'14\"80",
+			"attache_langue": false,
+			"gains_carriere": 31895,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "4",
+			"num_place_arrivee": "01",
+			"texte_place_arrivee": "01",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "F. NIVARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "lash-perrine",
+				"uuid": "f3fff9b7-ee43-4f54-96f2-37f7888c13c7",
+				"musique": "5A2A(23)6ADA1A2A2A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "T. MALMQVIST"
+				},
+				"nom_cheval": "LASH PERRINE",
+				"sexe_cheval": "M",
+				"gains_carriere": 77350
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p4-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P4"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "T. MALMQVIST"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p4-png",
+			"temps_part": "3'44\"12",
+			"num_partant": 4,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"reduction_km": "1'23\"00",
+			"attache_langue": false,
+			"gains_carriere": 41950,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "5",
+			"num_place_arrivee": "06",
+			"texte_place_arrivee": "06",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": true
+		},
+		{
+			"monte": {
+				"nom_monte": "R.CH. LARUE"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "loulou-de-mye",
+				"uuid": "f7221d4e-2de7-40fe-8a82-97e1a175983c",
+				"musique": "1ADA5A(23)3A2A4A3A1A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "R.CH. LARUE"
+				},
+				"nom_cheval": "LOULOU DE MYE",
+				"sexe_cheval": "M",
+				"gains_carriere": 93360
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p5-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P5"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "R.CH. LARUE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p5-png",
+			"temps_part": "3'22\"96",
+			"num_partant": 5,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"reduction_km": "1'15\"20",
+			"attache_langue": false,
+			"gains_carriere": 43560,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"num_place_arrivee": "03",
+			"texte_place_arrivee": "03",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "F. LAGADEUC"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "largo-de-castelle",
+				"uuid": "962b40c8-f932-4ac8-aafd-bdbb35af8c6a",
+				"musique": "2ADADA(23)5A3A1A1ADA2A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "MLLE I. KLAPPE"
+				},
+				"nom_cheval": "LARGO DE CASTELLE",
+				"sexe_cheval": "M",
+				"gains_carriere": 70650
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p6-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P6"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "MLLE I. KLAPPE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p6-png",
+			"temps_part": "3'24\"30",
+			"num_partant": 6,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"reduction_km": "1'15\"70",
+			"attache_langue": false,
+			"gains_carriere": 47150,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"num_place_arrivee": "05",
+			"texte_place_arrivee": "05",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "D. THOMAIN"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "little-brown",
+				"uuid": "4676d03e-3e56-4a25-83b8-cbcb8c9ed1fe",
+				"musique": "6A6A(23)1A3A1A1A1A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "PH. ALLAIRE"
+				},
+				"nom_cheval": "LITTLE BROWN",
+				"sexe_cheval": "M",
+				"gains_carriere": 71910
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p7-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "PH. ALLAIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p7-png",
+			"num_partant": 7,
+			"statut_part": "NP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"attache_langue": false,
+			"gains_carriere": 66510,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"num_place_arrivee": "Non partant",
+			"texte_place_arrivee": "Non Partant",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "B. ROCHARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "lemon-tree",
+				"uuid": "e7b6d411-b6b8-4cfa-8dce-61d19e761e92",
+				"musique": "3A3A(23)2A1A2A1A1ADA",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "W. BIGEON"
+				},
+				"nom_cheval": "LEMON TREE",
+				"sexe_cheval": "M",
+				"gains_carriere": 135000
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p8-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P8"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "W. BIGEON"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p8-png",
+			"temps_part": "3'22\"64",
+			"num_partant": 8,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"reduction_km": "1'15\"10",
+			"attache_langue": false,
+			"gains_carriere": 67200,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "4",
+			"num_place_arrivee": "02",
+			"texte_place_arrivee": "02",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": true
+		},
+		{
+			"monte": {
+				"nom_monte": "A. ABRIVARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "luciano-menuet",
+				"uuid": "a36dd3de-4903-4c2c-89d9-38da8c2482a8",
+				"musique": "8A1A(23)DADA1A2A1A1A",
+				"age_cheval": 3,
+				"entraineur": {
+					"nom_entraineur": "PH. ALLAIRE"
+				},
+				"nom_cheval": "LUCIANO MENUET",
+				"sexe_cheval": "M",
+				"gains_carriere": 125250
+			},
+			"casaque": {
+				"slug": "20231216-r1c2p9-png",
+				"updated_at": "2023-12-14T15:32:10+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "231216-HEATR1C2P9"
+			},
+			"age_cheval": 2,
+			"entraineur": {
+				"nom_entraineur": "PH. ALLAIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/1920x0/filters:format(webp)/https://api.equidia.fr/api/public/media/original/20231216-r1c2p9-png",
+			"num_partant": 9,
+			"statut_part": "DP",
+			"dist_partant": "2700",
+			"oeil_partant": "N",
+			"attache_langue": false,
+			"gains_carriere": 71250,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"texte_place_arrivee": "Disqualifié",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		}
+	],
+	"discipline": "Attelé",
+	"type_course": "Groupe II",
+	"categ_course": "Groupe II",
+	"num_course_pmu": 2,
+	"lib_corde_course": "Corde à gauche",
+	"lib_piste_course": "Machefer",
+	"real_heure_course": "2023-12-16T13:58:00+01:00",
+	"lib_parcours_course": "Grande piste",
+	"liblong_prix_course": "PRIX EMMANUEL MARGOUTY",
+	"montant_total_allocation": "120.000 euros"
+}

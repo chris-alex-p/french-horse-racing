@@ -1,0 +1,69 @@
+---
+title: "Median Winning Times (2023)"
+output: html_notebook
+---
+
+
+
+
+# Data Import
+
+```{r}
+data <- read.csv("../data/standard_times_data_2023.csv")
+```
+
+
+```{r}
+library(tidyverse)
+```
+
+
+
+
+
+```{r}
+unique(str_length(data$reduction_km))
+```
+
+
+```{r}
+data %>% 
+  filter(str_length(reduction_km) == 9)
+```
+
+
+These are obviously impossible values for the réduction kilométrique. For now we could just filter those out along with all races where the time has not been taken.
+
+```{r}
+data <- data %>% 
+  filter(str_length(reduction_km) == 10)
+```
+
+
+```{r}
+data <- data %>% 
+  mutate(
+    reduction_km_sec = as.numeric(substr(reduction_km, 2, 2)) * 60 +
+      as.numeric(substr(reduction_km, 4, 5)) + 
+      ( as.numeric(substr(reduction_km, 8, 9)) / 100 ),
+    total_allocation_eur = as.numeric(gsub("\\.| euros", "", total_allocation))
+  )
+```
+
+
+
+
+
+```{r}
+median_winning_redkm <- data %>% 
+  group_by(
+    discipline, hippodrome, piste_course, parcours_course, depart, distance, type_course
+  ) %>% 
+  summarise(
+    median_winning_redkm = median(reduction_km_sec),
+    median_tot_allocation = median(total_allocation_eur),
+    n = n()
+  )
+```
+
+

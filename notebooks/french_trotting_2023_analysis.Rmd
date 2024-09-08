@@ -1,0 +1,225 @@
+---
+title: "French Trotting in 2023: Data Exploration"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+# 1 Introduction
+
+France boasts a thriving horse racing industry, with the PMU, holding the monopoly on horse betting, recording a staggering €9.3 billion in betting turnover for 2023 (source: https://entreprise.pmu.fr/). This multifaceted sport encompasses various disciplines, including Flat Racing, Steeplechase, Hurdles, and Trotting races. In this notebook, we delve deeper into the world of French trotting races held in 2023.
+
+There are several sites from which you can acquire information on and results of french racing (for example equidia.fr, paris-turf.com, geny.com), utilising webscraping and/or API calls.
+
+Some numbers from letrot.com for the 2023 trotting season:
+
+* https://www.letrot.com/actualites/quelles-sont-les-donnees-2023-de-l-activite-du-trot-19215
+* https://www.letrot.com/actualites/richard-viel-analyse-les-chiffres-2023-du-pmu-19033
+* https://www.letrot.com/actualites/la-retro-2023-de-a-a-z-volet-1-2-18505
+* https://www.letrot.com/actualites/la-retro-2023-de-a-a-z-volet-2-2-18510
+
+
+
+## 2 Data
+
+The data used in this notebook has been pulled from the public API of equidia.fr. After downloading the JSON data, it has been stored in a PostgreSQL database. And then it was extracted from the database using this script (link to script) and after that it has been prepared with this script (link to script). 
+
+```{r}
+data <- read.csv(
+  "../data/french_trotting_2023_analysis_data.csv", encoding = "utf-8"
+)
+```
+
+
+### Number of races
+
+Let's check if our 2023 data is complete. On letrot.com it says that 11.020 trotting races have been held (source: https://www.letrot.com/actualites/quelles-sont-les-donnees-2023-de-l-activite-du-trot-19215). Since we are interested in those races that have been run (and did not get annuled in case of bad weather for example) you have to look for races which have had a winner.
+
+```{r}
+races <- data %>% 
+  filter(fin_pos == 1) %>% 
+  distinct_at(
+    vars(date_reunion, hippodrome, num_course_pmu), .keep_all = TRUE
+  ) %>% 
+  select(
+    date_reunion:parcours_course, categ_course, type_course_modified:red_km_sec
+  )
+```
+
+So in our data from equidia.fr 17 races are missing (if the statements on letrot.com regarding the number of races are correct). Included in our data are also races that have been run in Martinique. Since the horse populations of mainland France and Martinique don't mix and the races are not classified like all other races (Groupe I to Groupe III, Course A to Course H, and claiming races) we should also exclude them from our analysis (even more so when building a prediction model).
+
+```{r}
+data <- data %>% 
+  filter(hippodrome != "MARTINIQUE(Martinique)")
+races <- races %>% 
+  filter(hippodrome != "MARTINIQUE(Martinique)")
+```
+
+
+
+
+
+# 3 Data Exploration
+
+## 3.1 Attelé and Monté Races, Départ à l'Autostart and Départ Volté 
+
+There are two main disciplines in French Trotting:
+
+* Trot attelé: The horse tows a sulky on which a driver sits.
+* Trot monté: In Monté races the jockey sits directly on the saddled horse.  
+
+In both disciplines, the goal is to trot as fast as possible to the finish line while remaining in gait (disqualification occurs for breaking gait).
+```{r}
+unique(data$discipline)
+```
+
+Beyond these two disciplines, there are also two departure modes:
+
+* Départ à l'Autostart: The race starts with all horses trotting behind a moving car.
+* Départ Volté (Flying Start): Horses are positioned perpendicular to the track by the drivers/jockeys and then perform a synchronized quarter turn to launch onto the track.
+```{r}
+unique(data$depart)
+```
+
+For further explanations with visual examples, see the following resources:
+
+* https://youtu.be/1X7RnQxnbUU?si=kkmmeWFqaRslof4v
+* https://youtu.be/Q_Pssib1bvU?si=QSl6q-97_kE1e-zy
+
+The number of times each specific combination of departure and discipline has been run in 2023 (contingency table):
+
+```{r}
+contingency_table <- table(races$discipline, races$depart)
+addmargins(contingency_table)
+```
+Contingency table with percentage proportions:
+
+```{r}
+prop_table <- prop.table(contingency_table) * 100
+round(addmargins(prop_table), 4)
+```
+The great majority of trotting races in France is started with the départ volté (namely 82.01%), which is very seldom used in other countries. Only one Monté race in 2023 has been started with the Autostart: 
+```{r}
+races %>% 
+  filter(discipline == "Monté", depart == "Autostart") %>% 
+  select(date_reunion, hippodrome, liblong_prix_course, categ_course, type_course_modified)
+```
+
+
+## 3.2 Hippodromes and Surfaces
+
+In France trotting races are run on five different surfaces:
+
+```{r}
+sort(unique(races$piste_course))
+```
+* Cendrée: Ash.
+* Herbe: Trotting races on Grass/Turf are like the départ volté, and the Monté races a kind of french speciality. Although there are some trotting races on turf in other countries, they are really rare. 
+* Machefer: Coal clinker.
+* Pouzzolane: Pozzolan is a natural rock of volcanic origin.
+* Sable: Sand.
+
+For a more complete overview of the different surfaces see [here](https://www.boturfers.fr/pronostic-pmu/faire-pronostic-pmu/condition-course-pmu/hippodrome/piste-course-turf).
+
+```{r}
+ggplot(races, aes(x = piste_course)) +
+  geom_bar()
+```
+
+```{r}
+hippodromes <- data %>% 
+  distinct_at(vars(hippodrome, piste_course, corde_course))
+```
+
+Number of hippodromes with each surface
+
+```{r}
+hippodromes_surface <- hippodromes %>% 
+  distinct_at(vars(hippodrome, piste_course)) 
+```
+
+```{r}
+ggplot(hippodromes_surface, aes(x = piste_course)) +
+  geom_bar()
+```
+
+```{r}
+hippodromes_surface %>% 
+  group_by(piste_course) %>% 
+  summarise(n = n())
+```
+Most of the hippodromes used in 2023 have Turf as a surface although most races have been run on Sable. This is because the grass tracks often have less fixtures per year (sometimes only one) than hippodromes with other surfaces. And there are only three tracks with Machefer, one of them being the "Temple Du Trot" Vincennes, because it is the most expensive surface.
+
+
+```{r}
+
+
+na_corde_hippodromes <- hippodromes %>% 
+  filter(is.na(corde_course)) 
+
+hippodromes %>% 
+  filter(hippodrome %in% na_corde) %>% 
+  arrange(hippodrome, corde_course)
+
+two_n_hippodromes <- hippodromes %>% 
+  group_by(hippodrome) %>% 
+  summarise(n = n()) %>% 
+  filter(n > 1)
+
+```
+
+
+corde aus Datenbank extrahieren
+
+```{r}
+hippodromes <- data %>% 
+  distinct_at(vars(hippodrome, piste_course, corde_course))
+```
+
+
+## The different Classes of French Trotting Races
+
+There are twelve different classes of races: The Group (I to III) races are the most prestigious ones. The rest of the races are Course A to H races and claiming races which are called 'Course R'.
+
+```{r}
+sort(unique(races$type_course_modified))
+```
+
+As we can see from the table below, the Groupe I races are  
+
+```{r}
+races %>% 
+  group_by(type_course_modified) %>% 
+  summarise(
+    n = n(), 
+    mean_total_prizemoney = mean(total_allocation_eur), 
+    median_total_prizemoney = median(total_allocation_eur)
+  ) %>% 
+  arrange(desc(mean_total_prizemoney))
+```
+
+
+
+```{r}
+length(unique(races$type_course_modified))
+```
+
+
+
+
+
+## Hippodromes and distances
+
+la corde
+
+## Age of Horses
+
+## Prize Money
+
+## Driver Statistics
+
+
+# 4 Summary

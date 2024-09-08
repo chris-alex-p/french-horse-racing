@@ -1,0 +1,3383 @@
+{
+	"guid": "20230101_VIN_4",
+	"odds": [
+		{
+			"uuid": "72180672-7b8a-4bff-aec9-48ae85e099a3",
+			"cheval": {
+				"nom_cheval": "COKSTILE",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 19,
+			"rapp_evol": 20,
+			"num_partant": 1,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "bae82548-409a-4fe0-9900-a86dc5bcb683",
+			"cheval": {
+				"nom_cheval": "GU D'HERIPRE",
+				"intention_deferrer": "ferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 29,
+			"rapp_evol": 42,
+			"num_partant": 2,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "aef6129f-0e28-4e7a-8a82-81d63305d04d",
+			"cheval": {
+				"nom_cheval": "FLAMME DU GOUTIER",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 14,
+			"rapp_evol": 13,
+			"num_partant": 3,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "61061e90-2d51-463e-a580-f8a5e606753b",
+			"cheval": {
+				"nom_cheval": "ETONNANT",
+				"intention_deferrer": "déf. ant./fer. post."
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 4.4,
+			"rapp_evol": 4,
+			"num_partant": 4,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "820c5448-b9ce-4c6c-8f77-192e6f56e68a",
+			"cheval": {
+				"nom_cheval": "DELIA DU POMMEREUX",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 13,
+			"rapp_evol": 14,
+			"num_partant": 5,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "8b26755b-4c5f-4de7-8961-cbbb090bb590",
+			"cheval": {
+				"nom_cheval": "ZARENNE FAS",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 14,
+			"rapp_evol": 15,
+			"num_partant": 6,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "87f27f5f-8423-461f-88dd-405054f6cbe6",
+			"cheval": {
+				"nom_cheval": "VERNISSAGE GRIF",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 10,
+			"rapp_evol": 9.6,
+			"num_partant": 7,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "8deea2fb-3beb-44f2-a5d8-2f040d7a5e9e",
+			"cheval": {
+				"nom_cheval": "BLEFF DIPA",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 17,
+			"rapp_evol": 19,
+			"num_partant": 8,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "4a3aa1ec-0516-4c6b-b4f6-b3ce26e95022",
+			"cheval": {
+				"nom_cheval": "HOOKER BERRY",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 68,
+			"rapp_evol": 96,
+			"num_partant": 9,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "a50ff82f-1433-4f9b-84a1-02bcbc66f17d",
+			"cheval": {
+				"nom_cheval": "HUSSARD DU LANDRET",
+				"intention_deferrer": "plaq. ant./déf. post."
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 73,
+			"rapp_evol": 105,
+			"num_partant": 10,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "cf2de845-5cd1-45d3-8a87-151c55778225",
+			"cheval": {
+				"nom_cheval": "AMPIA MEDE SM",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 13,
+			"rapp_evol": 13,
+			"num_partant": 11,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "+"
+		},
+		{
+			"uuid": "ec9ade76-ae5f-46c4-9867-63613f645abb",
+			"cheval": {
+				"nom_cheval": "FAKIR DE MAHEY",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 50,
+			"rapp_evol": 62,
+			"num_partant": 12,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "ec562743-d4cd-4c19-b9cc-a1f19323aaff",
+			"cheval": {
+				"nom_cheval": "BEADS (USA)",
+				"intention_deferrer": "déf. ant./fer. post."
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 19,
+			"rapp_evol": 20,
+			"num_partant": 13,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "e1e8d807-d471-4c26-b63e-9591a7d13975",
+			"cheval": {
+				"nom_cheval": "DECOLORATION",
+				"intention_deferrer": "déferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 27,
+			"rapp_evol": 39,
+			"num_partant": 14,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "1fbe59c0-a208-4864-8327-a3c6a6b023e8",
+			"cheval": {
+				"nom_cheval": "HERAUT D'ARMES",
+				"intention_deferrer": "fer. ant./déf. post."
+			},
+			"favori": true,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 3.9,
+			"rapp_evol": 3.4,
+			"num_partant": 15,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "f0e9d47b-c1c9-4405-9fd9-679bb7ae91c2",
+			"cheval": {
+				"nom_cheval": "HOKKAIDO JIEL",
+				"intention_deferrer": "déf. ant./fer. post."
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 80,
+			"rapp_evol": 113,
+			"num_partant": 16,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "43c2d240-bbf8-4775-bb4c-53ed768a4e7f",
+			"cheval": {
+				"nom_cheval": "VIOLETTO JET",
+				"intention_deferrer": "ferré des 4"
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 109,
+			"rapp_evol": 167,
+			"num_partant": 17,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		},
+		{
+			"uuid": "d3ec603b-1f96-44ec-87ae-87bd04520f45",
+			"cheval": {
+				"nom_cheval": "HANNA DES MOLLES",
+				"intention_deferrer": "plaq. ant./déf. post."
+			},
+			"favori": false,
+			"channel": "OFF",
+			"history": [],
+			"rapp_ref": 111,
+			"rapp_evol": 169,
+			"num_partant": 18,
+			"heure_rap_evol": "2024-04-24T15:32:00+02:00",
+			"tendance_signe": "-"
+		}
+	],
+	"pays": {
+		"code": "FRA"
+	},
+	"uuid": "ba675ef2-5715-4b57-a94d-6eb961e2caf6",
+	"photo": {
+		"slug": "20230101_vin-r1c4_20230101-152803-jpg",
+		"updated_at": "2023-01-01T15:28:13+01:00"
+	},
+	"groupe": "GROUPE II",
+	"is_pmh": false,
+	"notule": {
+		"uuid": "c54e428b-3053-42cc-a337-b0f6c77aa335",
+		"author": {
+			"slug": "tanguy-bernier",
+			"uuid": "17a940db-301e-4b54-a59a-f36f709f5c97",
+			"lastname": "Bernier",
+			"class_key": 3,
+			"firstname": "Tanguy"
+		},
+		"status": "published",
+		"analyse": "Coup de théâtre avec la faute à l'entrée de la ligne droite de Héraut d'Armes (15), qui avait franchement l'avantage. La remarquable Délia du Pommereux (5) en profite pour renouer avec la victoire aux dépens de Flamme du Goutier (3), excellente elle aussi. Ampia Mede Sm (11) termine bien pour prendre la troisième place à Décoloration (14), tandis que Zarenne Fas (6) complète la bonne combinaison du Quinté+.",
+		"accroche": "Délia du Pommereux sûrement",
+		"updated_at": "2023-01-01T15:53:46+01:00",
+		"notule_partants": [
+			{
+				"uuid": "9fa14c27-e24a-4993-8924-c31f7af78c21",
+				"texte": "Relégué sur une quatrième ligne, à la corde, dans la montée, n'a pu suivre le rythme dans le dernier tournant avant de se relancer courageusement dans la ligne droite, sans être menaçant.",
+				"partant": {
+					"uuid": "47e99754-ba2e-48de-a236-cfb94f6438e6",
+					"monte": {
+						"nom_monte": "V.P. DELL'ANNUNZIATA"
+					},
+					"cheval": {
+						"uuid": "ec558f2c-5d9f-4efc-8e72-9f4732b5fa62",
+						"nom_cheval": "COKSTILE"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p1-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 1,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"60",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "09",
+					"texte_place_arrivee": "09"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "e4305aa0-16d8-4770-8726-d8ec7bde794b",
+				"texte": "Parti lentement et longtemps en queue de peloton, a progressé dans le wagon de deux dans la montée et a terminé convenablement, non sans se perdre dans ses allures à 150 mètres du poteau.",
+				"partant": {
+					"uuid": "6472db94-a207-4a0c-a2bb-393d242b8bfe",
+					"monte": {
+						"nom_monte": "B. ROCHARD"
+					},
+					"cheval": {
+						"uuid": "a9f27774-ad7c-4136-8fdb-ba14c868f04f",
+						"nom_cheval": "GU D'HERIPRE"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p2-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 2,
+					"statut_part": "DP",
+					"statut_part_pcc": "DP",
+					"texte_place_arrivee": "Disqualifié"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "0e05dd8d-8004-4538-80af-becfd54e8e8d",
+				"texte": "Vite dans le groupe de tête, dans le sillage de Délia du Pommereux, l'a attaquée tout au long de la ligne droite, mais en vain.",
+				"partant": {
+					"uuid": "9ba65777-505b-4090-89f9-ae2a1ae9da4e",
+					"monte": {
+						"nom_monte": "THEO DUVALDESTIN"
+					},
+					"cheval": {
+						"uuid": "b7aa31b5-5ce8-480a-9f05-dafdc78fddc4",
+						"nom_cheval": "FLAMME DU GOUTIER"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p3-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 3,
+					"statut_part": "DP",
+					"reduction_km": "1'09\"70",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "02",
+					"texte_place_arrivee": "02"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "87db5827-ec2b-4d19-a3db-fd3a7a9f365c",
+				"texte": "Fautif au début, mais vite remis, s'est porté au commandement dans la montée, puis n'a pu contrer Héraut d'Armes à l'intersection des pistes avant d'être dominé dans la ligne droite.",
+				"partant": {
+					"uuid": "2d348cd1-8cc4-442b-8b0b-8ceb4c5be154",
+					"monte": {
+						"nom_monte": "A. BARRIER"
+					},
+					"cheval": {
+						"uuid": "9447a37b-5cdb-497d-a5fc-7bf56c6d00b8",
+						"nom_cheval": "ETONNANT"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p4-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 4,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"50",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "08",
+					"texte_place_arrivee": "08"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "a6c9a5a7-ec5c-4ac7-a00f-fb0348499eb6",
+				"texte": "Vite dans le groupe de tête, puis nez au vent dans la montée quand Etonnant s'est rabattu en tête, se lançait à la poursuite d'Héraut d'Armes quand celui-ci s'est enlevé à l'entrée de la ligne droite, puis a tenu en respect Flamme du Goutier jusqu'au bout.",
+				"partant": {
+					"uuid": "0e8fd2c0-1f6b-4d84-bf02-484b5ca027da",
+					"monte": {
+						"nom_monte": "P.Y. VERVA"
+					},
+					"cheval": {
+						"uuid": "6cae4c90-388f-401e-8174-2fe405aab733",
+						"nom_cheval": "DELIA DU POMMEREUX"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p5-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 5,
+					"statut_part": "DP",
+					"reduction_km": "1'09\"60",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "01",
+					"texte_place_arrivee": "01"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "89a4985e-d6ee-4d8e-83cd-bca7e12ef42b",
+				"texte": "Longtemps au sein du peloton, a suivi le mouvement dans le dernier tournant et s'est bien défendu jusqu'au bout.",
+				"partant": {
+					"uuid": "6f29c68e-efbe-481a-ba9b-7c346ee05003",
+					"monte": {
+						"nom_monte": "E. RAFFIN"
+					},
+					"cheval": {
+						"uuid": "176f0676-cdf6-4f24-b98d-5e0f2f7eb2bb",
+						"nom_cheval": "ZARENNE FAS"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p6-png-2",
+						"updated_at": "2022-12-30T17:22:51+01:00"
+					},
+					"num_partant": 6,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"10",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "05",
+					"texte_place_arrivee": "05"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "f05213a1-915c-44ae-9402-26f0f8583885",
+				"texte": "Relayé par Etonnant dans la montée, l'a contourné à la sortie du dernier tournant et s'est montré courageux jusqu'au bout, quoique dominé.",
+				"partant": {
+					"uuid": "2351cb05-2065-4561-92e9-e97a86706500",
+					"monte": {
+						"nom_monte": "A. GOCCIADORO"
+					},
+					"cheval": {
+						"uuid": "6c82a23d-8654-49cc-b649-fb32dd75b659",
+						"nom_cheval": "VERNISSAGE GRIF"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p7-png-1",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 7,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"30",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "06",
+					"texte_place_arrivee": "06"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "fe2c147d-5773-4e1f-9630-cbef28d4b4de",
+				"texte": "Relégué sur une troisième ligne, à la corde, dans la montée, n'a pu suivre le rythme à l'entrée de la ligne droite.",
+				"partant": {
+					"uuid": "03a470bc-d7f3-4c09-83fe-c0e784974d1c",
+					"monte": {
+						"nom_monte": "A. ABRIVARD"
+					},
+					"cheval": {
+						"uuid": "a238b550-c42c-4d42-9bb0-5c6d0a4f6bea",
+						"nom_cheval": "BLEFF DIPA"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p8-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 8,
+					"statut_part": "DP",
+					"reduction_km": "1'11\"30",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "11",
+					"texte_place_arrivee": "11"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "598d952e-7348-409f-9910-c9a2532c0c21",
+				"texte": "Repris en partant et placé en queue de peloton, a suivi à l'arrière-garde, sans être menaçant.",
+				"partant": {
+					"uuid": "cf38a2a3-75a6-4cbc-b78c-58bebd8b4887",
+					"monte": {
+						"nom_monte": "T. OUVRIE"
+					},
+					"cheval": {
+						"uuid": "c4b74aa6-d31d-4a83-9358-77276875bb6d",
+						"nom_cheval": "HOOKER BERRY"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p9-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 9,
+					"statut_part": "DP",
+					"reduction_km": "1'11\"70",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "14",
+					"texte_place_arrivee": "14"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "29a67a0d-7119-4f79-806a-d3eed8127877",
+				"texte": "Vite en queue de peloton, n'a pu suivre en haut de la montée.",
+				"partant": {
+					"uuid": "e357541e-675c-4db5-b375-305407aba513",
+					"monte": {
+						"nom_monte": "B. ROBIN"
+					},
+					"cheval": {
+						"uuid": "c7456ca4-390f-4044-b0ce-7b575a4df70d",
+						"nom_cheval": "HUSSARD DU LANDRET"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p10-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 10,
+					"statut_part": "DP",
+					"reduction_km": "1'12\"00",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "15",
+					"texte_place_arrivee": "15"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "1bab36fb-7018-4725-9681-708ef9338457",
+				"texte": "Vite en queue de peloton, a progressé à l'abri dans la montée et a bien terminé pour s'assurer la troisième place.",
+				"partant": {
+					"uuid": "9a0cddf2-bf31-4cc6-b110-d80b4188954b",
+					"monte": {
+						"nom_monte": "F. NIVARD"
+					},
+					"cheval": {
+						"uuid": "57f1f414-bd24-4b1e-aa32-3d6730d3326c",
+						"nom_cheval": "AMPIA MEDE SM"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p11-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 11,
+					"statut_part": "DP",
+					"reduction_km": "1'09\"90",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "03",
+					"texte_place_arrivee": "03"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "cc473f6b-217c-4cab-9880-035d264c486f",
+				"texte": "Vite dans le dernier tiers du peloton, a terminé courageusement, à défaut d'être menaçant.",
+				"partant": {
+					"uuid": "15157c81-5244-4e11-8ab2-4132b74d8a70",
+					"monte": {
+						"nom_monte": "M. MOTTIER"
+					},
+					"cheval": {
+						"uuid": "64cd7cdb-ad75-457a-804f-ff3b2fc234e3",
+						"nom_cheval": "FAKIR DE MAHEY"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p12-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 12,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"40",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "07",
+					"texte_place_arrivee": "07"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "7a05152f-03c1-4268-93a7-53698d7d3103",
+				"texte": "Vite dans le dernier tiers du peloton, a emboîté le pas à Héraut d'Armes dans la montée mais n'a pu le suivre bien longtemps et a été retiré de la course à l'entrée du dernier tournant.",
+				"partant": {
+					"uuid": "75a49f4a-bf8b-47d1-9784-145aa3050d68",
+					"monte": {
+						"nom_monte": "Y. LEBOURGEOIS"
+					},
+					"cheval": {
+						"uuid": "0527834b-fc31-43b9-9802-674c23cdf0e3",
+						"nom_cheval": "BEADS (USA)"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p13-png-1",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 13,
+					"statut_part": "DP",
+					"reduction_km": "1'11\"40",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "13",
+					"texte_place_arrivee": "13"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "81f2ca21-22b1-4d48-8e18-8047fa7f1154",
+				"texte": "Longtemps sur une troisième ligne du wagon de deux, s'est très bien comportée jusqu'au bout, sans pouvoir résister à Ampia Mede Sm.",
+				"partant": {
+					"uuid": "928cb176-beae-4b5b-a652-fe940c1e262f",
+					"monte": {
+						"nom_monte": "G. GELORMINI"
+					},
+					"cheval": {
+						"uuid": "d3ea20eb-d319-481e-9d12-85aed193a8d8",
+						"nom_cheval": "DECOLORATION"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p14-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 14,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"00",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "04",
+					"texte_place_arrivee": "04"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "f38fae84-d64b-417f-82da-6b2ea465c306",
+				"texte": "Sur une cinquième ligne du wagon de deux en plaine, a attaqué sèchement dans la montée et avait nettement l'avantage quand il s'est perdu dans ses allures à l'entrée de la ligne droite.",
+				"partant": {
+					"uuid": "07131623-0fd0-4883-b3ca-9e3d317a7159",
+					"monte": {
+						"nom_monte": "J.M. BAZIRE"
+					},
+					"cheval": {
+						"uuid": "b4990ed5-3fac-4ee1-a232-909d2555af39",
+						"nom_cheval": "HERAUT D'ARMES"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p15-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 15,
+					"statut_part": "DP",
+					"statut_part_pcc": "DP",
+					"texte_place_arrivee": "Disqualifié"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "306280ff-b823-4178-95bb-76e119b823d9",
+				"texte": "Vite dans le dernier tiers du peloton, progressait sur une troisième ligne du wagon de trois, derrière Beads, quand il s'est enlevé dans la montée.",
+				"partant": {
+					"uuid": "ffa0970b-bbb1-44e3-ab4a-c4c0eb20b78d",
+					"monte": {
+						"nom_monte": "D. THOMAIN"
+					},
+					"cheval": {
+						"uuid": "f7d1d079-973e-43f5-b900-1bb419def13c",
+						"nom_cheval": "HOKKAIDO JIEL"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p16-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 16,
+					"statut_part": "DP",
+					"statut_part_pcc": "DP",
+					"texte_place_arrivee": "Disqualifié"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "b6d331c9-5909-4c2b-a053-629ac62285bf",
+				"texte": "Vite en queue de peloton, n'a pas été menaçant.",
+				"partant": {
+					"uuid": "acccd214-fa01-439a-9714-4f57e02dfaa2",
+					"monte": {
+						"nom_monte": "F. OUVRIE"
+					},
+					"cheval": {
+						"uuid": "709efdd5-3853-4449-bd03-dfc7dbd2b4d7",
+						"nom_cheval": "VIOLETTO JET"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p17-png-1",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 17,
+					"statut_part": "DP",
+					"reduction_km": "1'11\"30",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "12",
+					"texte_place_arrivee": "12"
+				},
+				"impression_active": false
+			},
+			{
+				"uuid": "abca9d42-a7ec-4686-87c4-7dbbee1f56de",
+				"texte": "A suivi en queue de peloton, à la corde, puis a perdu du temps dans le dernier tournant derrière Cokstile, avant de terminer convenablement, sans être menaçante.",
+				"partant": {
+					"uuid": "670bcd5e-2004-4910-b72d-19e59fa19b3a",
+					"monte": {
+						"nom_monte": "L.CL. ABRIVARD"
+					},
+					"cheval": {
+						"uuid": "a4d62135-9b8a-44c0-97e7-6efc70b5018a",
+						"nom_cheval": "HANNA DES MOLLES"
+					},
+					"casaque": {
+						"slug": "20230101-r1c4p18-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 18,
+					"statut_part": "DP",
+					"reduction_km": "1'10\"80",
+					"statut_part_pcc": "DP",
+					"num_place_arrivee": "10",
+					"texte_place_arrivee": "10"
+				},
+				"impression_active": false
+			}
+		]
+	},
+	"pronos": {
+		"type": "analysis_by_horse",
+		"uuid": "4dbc2718-07d2-4733-94e6-c8d8c03a8d3d",
+		"bases": [
+			15,
+			4,
+			3
+		],
+		"status": "published",
+		"chapeau": "S’il ne s’était pas perdu dans ses allures à la sortie du tournant final, Héraut d’Armes (15) aurait certainement glané son billet pour l’Amérique il y a une semaine dans le Prix Ténor de Baune (Gr.1). Tout est à refaire pour l’élève de Jean-Michel Bazire, mais il a suffisamment de classe pour parvenir à ses fins, d’autant que ce parcours de vitesse lui sied à merveille. Idéalement situés en première ligne, Etonnant (4), Flamme du Goutier (3) et Délia du Pommereux (5) représentent des valeurs sûres à ce niveau. Si le premier cité est capable d’adopter toutes les tactiques, les deux juments ont besoin d’un parcours sans encombre pour placer leur redoutable pointe de vitesse au moment opportun. Tenant du titre de ce rendez-vous, Cokstile (1) a hérité d’un numéro idéal, lui qui a pour habitude de démarrer à vive allure derrière l’autostart. Même s’il peut manquer d’un parcours, ce multiple lauréat de Groupe 1 mérite le plus grand respect. Invaincue sur ce parcours en trois tentatives, Ampia Mede Sm (11) court sans pression après avoir obtenu son billet qualificatif dans le Prix de Bretagne. Jugée sur ce qu’elle a fait de mieux, elle est capable de tenir la dragée haute aux compétiteurs précités. Véritable champion en Italie, Vernissage Grif (7) débute sur notre sol à l’âge de 8 ans et sera l’une des attractions de l’épreuve. Malgré son numéro en dehors, Bleff Dipa (8) peut venir pimenter les rapports du Quinté+.",
+		"creator": {
+			"slug": "micka-el-afriat",
+			"uuid": "e5cd290d-6cf4-4324-a643-d6b1a040e75c",
+			"lastname": "Afriat",
+			"class_key": 3,
+			"firstname": "Mickaël",
+			"photo_url": "322631175_703061234690920_2202296283092092308_n-jpg-1",
+			"is_journalist": true
+		},
+		"bet_links": {
+			"zeturf": "https://www.zeturf.fr/fr/course/2023-01-01/R1C4-equidia?prefill=39:15-4-3-5-1&pid=311&aff=202331101"
+		},
+		"delaisses": [
+			10,
+			9,
+			17,
+			18
+		],
+		"outsiders": [
+			6,
+			14,
+			13,
+			16,
+			2,
+			12
+		],
+		"validated": true,
+		"presentation": "Pour le premier jour de l’année 2023, les amoureux de trot seront gâtés puisque le Quinté+ se disputera dans le Prix de Bourgogne, cinquième épreuve qualificative au Prix d’Amérique. Programmé sur les 2.100 mètres de la grande piste, ce Groupe 2 est souvent riche d’enseignements à un peu moins d’un mois du grand rendez-vous. Toujours en quête d’un visa, Héraut d’Armes (15) s’élancera avec le couteau entre les dents.",
+		"published_at": "2022-12-30T11:50:22+01:00",
+		"validated_at": "2022-12-30T11:53:01+01:00",
+		"belles_chances": [
+			5,
+			1,
+			11,
+			7,
+			8
+		],
+		"pronostic_analyses": [
+			{
+				"cheval": {
+					"slug": "delia-du-pommereux",
+					"uuid": "6cae4c90-388f-401e-8174-2fe405aab733",
+					"casaque": {
+						"slug": "20240211-r1c3p5-png",
+						"updated_at": "2024-02-09T14:17:20+01:00"
+					},
+					"nom_cheval": "DELIA DU POMMEREUX"
+				},
+				"partant": {
+					"uuid": "0e8fd2c0-1f6b-4d84-bf02-484b5ca027da",
+					"casaque": {
+						"slug": "20230101-r1c4p5-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 5
+				},
+				"position": 4,
+				"analysis_horse": "Alors qu’elle était seulement plaquée des quatre pieds, cette représentante de Noël Lolic a laissé une formidable impression dans le Prix du Bourbonnais. De retour sur un parcours qu’elle adore, elle se présentera en outre totalement déferrée. Sa place est à l’arrivée.",
+				"note_numerique": 2,
+				"cote_journaliste": 9
+			},
+			{
+				"cheval": {
+					"slug": "decoloration",
+					"uuid": "d3ea20eb-d319-481e-9d12-85aed193a8d8",
+					"casaque": {
+						"slug": "20230325-r1c4p12-png",
+						"updated_at": "2023-03-23T14:04:04+01:00"
+					},
+					"nom_cheval": "DECOLORATION"
+				},
+				"partant": {
+					"uuid": "928cb176-beae-4b5b-a652-fe940c1e262f",
+					"casaque": {
+						"slug": "20230101-r1c4p14-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 14
+				},
+				"position": 10,
+				"analysis_horse": "Malgré un joli sprint, cette représentante de Jean-Michel Baudouin a échoué d’un souffle pour la troisième place dans la Qualif 2. Sa forme est sûre, mais elle a glané ses meilleurs titres sur les distances de longue haleine. En bout de piste.",
+				"note_numerique": 1,
+				"cote_journaliste": 23
+			},
+			{
+				"cheval": {
+					"slug": "cokstile",
+					"uuid": "ec558f2c-5d9f-4efc-8e72-9f4732b5fa62",
+					"casaque": {
+						"slug": "20240114-r1c4p16-png",
+						"updated_at": "2024-01-14T15:16:23+01:00"
+					},
+					"nom_cheval": "COKSTILE"
+				},
+				"partant": {
+					"uuid": "47e99754-ba2e-48de-a236-cfb94f6438e6",
+					"casaque": {
+						"slug": "20230101-r1c4p1-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 1
+				},
+				"position": 5,
+				"analysis_horse": "Tenant du titre de ce Prix de Bourgogne, cet excellent sprinteur s’est permis le luxe de remporter le Yonker International Trot le 15 octobre. S’il peut patienter dans le sillage des animateurs et trouver l’ouverture au moment opportun, il est capable de finir dans les quatre premiers.",
+				"note_numerique": 2,
+				"cote_journaliste": 13
+			},
+			{
+				"cheval": {
+					"slug": "etonnant",
+					"uuid": "9447a37b-5cdb-497d-a5fc-7bf56c6d00b8",
+					"casaque": {
+						"slug": "20231210-r1c4p18-png",
+						"updated_at": "2023-12-08T13:20:16+01:00"
+					},
+					"nom_cheval": "ETONNANT"
+				},
+				"partant": {
+					"uuid": "2d348cd1-8cc4-442b-8b0b-8ceb4c5be154",
+					"casaque": {
+						"slug": "20230101-r1c4p4-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 4
+				},
+				"position": 2,
+				"analysis_horse": "Meilleur cheval d’âge tricolore en activité, ce quadruple lauréat de Groupe 1 poursuit sa préparation en vue du dernier dimanche de janvier. Dans la Qualif 2, il a prouvé qu’il pouvait briller avec ses fers. Idéalement situé derrière les ailes de l’autostart, il s’annonce redoutable.",
+				"note_numerique": 3,
+				"cote_journaliste": 3.5
+			},
+			{
+				"cheval": {
+					"slug": "flamme-du-goutier",
+					"uuid": "b7aa31b5-5ce8-480a-9f05-dafdc78fddc4",
+					"casaque": {
+						"slug": "20240204-r1c6p10-png",
+						"updated_at": "2024-02-02T13:53:40+01:00"
+					},
+					"nom_cheval": "FLAMME DU GOUTIER"
+				},
+				"partant": {
+					"uuid": "9ba65777-505b-4090-89f9-ae2a1ae9da4e",
+					"casaque": {
+						"slug": "20230101-r1c4p3-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 3
+				},
+				"position": 3,
+				"analysis_horse": "Probante quatrième de la Qualif 1, sans être chanceuse, cette jument éclectique a rapidement disparu sur faute dans le Prix du Bourbonnais avant de montrer sa forme. Quatrième de la dernière édition, elle peut faire encore mieux cette année.",
+				"note_numerique": 3,
+				"cote_journaliste": 8
+			},
+			{
+				"cheval": {
+					"slug": "fakir-de-mahey",
+					"uuid": "64cd7cdb-ad75-457a-804f-ff3b2fc234e3",
+					"casaque": {
+						"slug": "20240331-r5c3p15-png",
+						"updated_at": "2024-03-29T16:49:30+01:00"
+					},
+					"nom_cheval": "FAKIR DE MAHEY"
+				},
+				"partant": {
+					"uuid": "15157c81-5244-4e11-8ab2-4132b74d8a70",
+					"casaque": {
+						"slug": "20230101-r1c4p12-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 12
+				},
+				"position": 14,
+				"analysis_horse": "Epatant depuis le mois de juin, ce sujet dur à l’effort vient de signer la meilleure performance de sa carrière dans la finale du Grand National du Trot (4e). Toutefois, il s’attaque à plus forte partie et reste plus à l’aise sur les parcours de longue haleine. Simple outsider.",
+				"note_numerique": 1,
+				"cote_journaliste": 50
+			},
+			{
+				"cheval": {
+					"slug": "gu-dheripre",
+					"uuid": "a9f27774-ad7c-4136-8fdb-ba14c868f04f",
+					"casaque": {
+						"slug": "20240128-r1c7p6-png",
+						"updated_at": "2024-01-26T15:58:01+01:00"
+					},
+					"nom_cheval": "GU D'HERIPRE"
+				},
+				"partant": {
+					"uuid": "6472db94-a207-4a0c-a2bb-393d242b8bfe",
+					"casaque": {
+						"slug": "20230101-r1c4p2-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 2
+				},
+				"position": 13,
+				"analysis_horse": "Absent depuis sa sixième place dans le Prix des Cévennes (Gr.3), ce cheval fragile n’a pas encore retrouvé l’étendue de ses capacités. Il semble loin du niveau qui était le sien lors de sa cinquième place dans la dernière édition. Second choix.",
+				"note_numerique": 1,
+				"cote_journaliste": 40
+			},
+			{
+				"cheval": {
+					"slug": "violetto-jet",
+					"uuid": "709efdd5-3853-4449-bd03-dfc7dbd2b4d7",
+					"casaque": {
+						"slug": "20230128-r1c4p3-png",
+						"updated_at": "2023-01-26T15:11:03+01:00"
+					},
+					"nom_cheval": "VIOLETTO JET"
+				},
+				"partant": {
+					"uuid": "acccd214-fa01-439a-9714-4f57e02dfaa2",
+					"casaque": {
+						"slug": "20230101-r1c4p17-png-1",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 17
+				},
+				"position": 17,
+				"analysis_horse": "Méconnaissable depuis un an, ce fils de From Above n’a plus goûté aux joies du podium depuis juillet 2021. Mal placé en seconde ligne, il doit surtout rassurer à l’heure actuelle. Mieux vaut se contenter de le regarder courir.",
+				"note_numerique": 0,
+				"cote_journaliste": 85
+			},
+			{
+				"cheval": {
+					"slug": "hanna-des-molles",
+					"uuid": "a4d62135-9b8a-44c0-97e7-6efc70b5018a",
+					"casaque": {
+						"slug": "20240420-r1c6p7-png",
+						"updated_at": "2024-04-18T13:56:12+02:00"
+					},
+					"nom_cheval": "HANNA DES MOLLES"
+				},
+				"partant": {
+					"uuid": "670bcd5e-2004-4910-b72d-19e59fa19b3a",
+					"casaque": {
+						"slug": "20230101-r1c4p18-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 18
+				},
+				"position": 18,
+				"analysis_horse": "Désormais double lauréate de Groupe 1, cette pensionnaire de Laurent-Claude Abrivard vient d’obtenir son billet pour le Prix de Cornulier dans le Prix Bilibili. Cette course lui permettra de maintenir sa condition avant son grand objectif de l’hiver. A écarter.",
+				"note_numerique": 0,
+				"cote_journaliste": 99
+			},
+			{
+				"cheval": {
+					"slug": "hooker-berry",
+					"uuid": "c4b74aa6-d31d-4a83-9358-77276875bb6d",
+					"casaque": {
+						"slug": "20240420-r1c6p1-png",
+						"updated_at": "2024-04-18T13:56:12+02:00"
+					},
+					"nom_cheval": "HOOKER BERRY"
+				},
+				"partant": {
+					"uuid": "cf38a2a3-75a6-4cbc-b78c-58bebd8b4887",
+					"casaque": {
+						"slug": "20230101-r1c4p9-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 9
+				},
+				"position": 16,
+				"analysis_horse": "Brillant lauréat du Prix du Bourbonnais, ce trotteur attachant a désormais pour objectif de maintenir sa condition physique en vue du jour J. Ferré et mal « garé » avec le numéro 9, il peut être écarté sans risque.",
+				"note_numerique": 0,
+				"cote_journaliste": 80
+			},
+			{
+				"cheval": {
+					"slug": "hokkaido-jiel",
+					"uuid": "f7d1d079-973e-43f5-b900-1bb419def13c",
+					"casaque": {
+						"slug": "20240406-r1c4p12-png",
+						"updated_at": "2024-04-04T15:04:25+02:00"
+					},
+					"nom_cheval": "HOKKAIDO JIEL"
+				},
+				"partant": {
+					"uuid": "ffa0970b-bbb1-44e3-ab4a-c4c0eb20b78d",
+					"casaque": {
+						"slug": "20230101-r1c4p16-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 16
+				},
+				"position": 12,
+				"analysis_horse": "S’il a fait partie des meilleurs de sa promotion, ce fils de Brillantissime a énormément déçu depuis sa cinquième place dans le Critérium des 5 Ans (Gr.1). Il avait été pris en note à deux reprises sur ce parcours l’hiver dernier, mais sa forme est sujette à caution. Pas évident.",
+				"note_numerique": 1,
+				"cote_journaliste": 35
+			},
+			{
+				"cheval": {
+					"slug": "hussard-du-landret",
+					"uuid": "c7456ca4-390f-4044-b0ce-7b575a4df70d",
+					"casaque": {
+						"slug": "20240420-r1c6p5-png",
+						"updated_at": "2024-04-18T13:56:12+02:00"
+					},
+					"nom_cheval": "HUSSARD DU LANDRET"
+				},
+				"partant": {
+					"uuid": "e357541e-675c-4db5-b375-305407aba513",
+					"casaque": {
+						"slug": "20230101-r1c4p10-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 10
+				},
+				"position": 15,
+				"analysis_horse": "A l’image d’Hooker Berry (9), ce mâle de 5 ans a obtenu son billet pour l’Amérique dans la Qualif 2. Lui aussi va courir sagement afin de se maintenir en forme pour le grand rendez-vous du 29 janvier. L’impasse est tentante.",
+				"note_numerique": 0,
+				"cote_journaliste": 65
+			},
+			{
+				"cheval": {
+					"slug": "zarenne-fas",
+					"uuid": "176f0676-cdf6-4f24-b98d-5e0f2f7eb2bb",
+					"casaque": {
+						"slug": "20231231-r1c6p14-png",
+						"updated_at": "2023-12-29T13:56:59+01:00"
+					},
+					"nom_cheval": "ZARENNE FAS"
+				},
+				"partant": {
+					"uuid": "6f29c68e-efbe-481a-ba9b-7c346ee05003",
+					"casaque": {
+						"slug": "20230101-r1c4p6-png-2",
+						"updated_at": "2022-12-30T17:22:51+01:00"
+					},
+					"num_partant": 6
+				},
+				"position": 9,
+				"analysis_horse": "Après un début d’hiver poussif, ce fils de Varenne a désormais trouvé la bonne carburation. Cela dit, il reste plus tranchant sous la selle et son seul essai sur ce parcours s’était soldé par un échec. Dans un second choix seulement.",
+				"note_numerique": 1,
+				"cote_journaliste": 18
+			},
+			{
+				"cheval": {
+					"slug": "heraut-darmes",
+					"uuid": "b4990ed5-3fac-4ee1-a232-909d2555af39",
+					"casaque": {
+						"slug": "20231113-r1c4p4-png",
+						"updated_at": "2023-11-11T12:19:21+01:00"
+					},
+					"nom_cheval": "HERAUT D'ARMES"
+				},
+				"partant": {
+					"uuid": "07131623-0fd0-4883-b3ca-9e3d317a7159",
+					"casaque": {
+						"slug": "20230101-r1c4p15-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 15
+				},
+				"position": 1,
+				"analysis_horse": "Sans une faute à la sortie du tournant final, ce cheval bouillant aurait probablement remporté le Prix Ténor de Baune (Gr.1). Vainqueur du Championnat Européen des 5 Ans (Gr.1) sur ce parcours, il peut décrocher son billet pour l’Amérique dès dimanche. Une priorité.",
+				"note_numerique": 3,
+				"cote_journaliste": 5
+			},
+			{
+				"cheval": {
+					"slug": "vernissage-grif",
+					"uuid": "6c82a23d-8654-49cc-b649-fb32dd75b659",
+					"casaque": {
+						"slug": "20240310-r1c4p1-png",
+						"updated_at": "2024-03-08T14:36:19+01:00"
+					},
+					"nom_cheval": "VERNISSAGE GRIF"
+				},
+				"partant": {
+					"uuid": "2351cb05-2065-4561-92e9-e97a86706500",
+					"casaque": {
+						"slug": "20230101-r1c4p7-png-1",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 7
+				},
+				"position": 7,
+				"analysis_horse": "Véritable phénomène en Italie, cet élève d’Alessandro Gocciadoro effectue ses grands débuts à Vincennes à l’âge de 8 ans. Il a souvent tenu la dragée haute au champion Vivid Wise As sur le mile, mais son comportement reste difficile à anticiper. Une affaire d’impression.",
+				"note_numerique": 2,
+				"cote_journaliste": 15
+			},
+			{
+				"cheval": {
+					"slug": "bleff-dipa",
+					"uuid": "a238b550-c42c-4d42-9bb0-5c6d0a4f6bea",
+					"casaque": {
+						"slug": "20240310-r1c4p7-png",
+						"updated_at": "2024-03-08T14:36:19+01:00"
+					},
+					"nom_cheval": "BLEFF DIPA"
+				},
+				"partant": {
+					"uuid": "03a470bc-d7f3-4c09-83fe-c0e784974d1c",
+					"casaque": {
+						"slug": "20230101-r1c4p8-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 8
+				},
+				"position": 8,
+				"analysis_horse": "Pour son retour à Vincennes, ce représentant de Jean-Pierre Barjon a joué un vilain tour à ses contemporains dans le Prix Doynel de Saint-Quentin (Gr.2). Quatrième du Critérium Continental (Gr.1) l’hiver dernier, sur ce parcours, il peut briguer une place.",
+				"note_numerique": 2,
+				"cote_journaliste": 17
+			},
+			{
+				"cheval": {
+					"slug": "ampia-mede-sm",
+					"uuid": "57f1f414-bd24-4b1e-aa32-3d6730d3326c",
+					"casaque": {
+						"slug": "20240225-r1c3p15-png",
+						"updated_at": "2024-02-23T13:52:07+01:00"
+					},
+					"nom_cheval": "AMPIA MEDE SM"
+				},
+				"partant": {
+					"uuid": "9a0cddf2-bf31-4cc6-b110-d80b4188954b",
+					"casaque": {
+						"slug": "20230101-r1c4p11-png",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 11
+				},
+				"position": 6,
+				"analysis_horse": "Grâce à la rétrogradation d’Hussart du Landret (10), cette protégée de Fabrice Souloy a obtenu son visa pour l’Amérique dans la Qualif 1. Absente depuis plus de cinq semaines, elle se présentera ici en « mode course ». Invaincue sur ce parcours en trois essais, elle mérite le respect.",
+				"note_numerique": 2,
+				"cote_journaliste": 10
+			},
+			{
+				"cheval": {
+					"slug": "beads-usa",
+					"uuid": "0527834b-fc31-43b9-9802-674c23cdf0e3",
+					"casaque": {
+						"slug": "20240114-r1c4p6-png",
+						"updated_at": "2024-01-14T15:16:23+01:00"
+					},
+					"nom_cheval": "BEADS (USA)"
+				},
+				"partant": {
+					"uuid": "75a49f4a-bf8b-47d1-9784-145aa3050d68",
+					"casaque": {
+						"slug": "20230101-r1c4p13-png-1",
+						"updated_at": "2022-12-30T17:22:49+01:00"
+					},
+					"num_partant": 13
+				},
+				"position": 11,
+				"analysis_horse": "Ce cheval américain a enfin montré ce dont il était capable dans le Prix Ténor de Baune (Gr.1), après avoir animé les débats. Il reste délicat et aura probablement du mal à appliquer cette tactique, même s’il partira derrière Etonnant (4), qui est capable de démarrer vite. Du pour et du contre.",
+				"note_numerique": 1,
+				"cote_journaliste": 25
+			}
+		]
+	},
+	"booster": "500.000",
+	"reunion": {
+		"is_pmh": false,
+		"flux_url": "racing1",
+		"flux_type": "RACING",
+		"hippodrome": {
+			"name": "PARIS-VINCENNES",
+			"country_code": "FRA"
+		},
+		"is_premium": true,
+		"flux_active": true,
+		"lib_reunion": "PARIS-VINCENNES",
+		"num_courses": [
+			1,
+			2,
+			3,
+			4,
+			5,
+			6,
+			7
+		],
+		"num_reunion": 1,
+		"date_reunion": "2023-01-01",
+		"meteo_vent_force": "12",
+		"heure_fin_reunion": "18:00",
+		"meteo_temperature": "13",
+		"specialite_reunion": "Trot",
+		"heure_reunion_racing": "12:51",
+		"meteo_vent_direction": {
+			"label": "Sud"
+		},
+		"meteo_nebulosite_code": "P6",
+		"meteo_nebulosite_libelle_court": "Couvert"
+	},
+	"tracked": true,
+	"distance": 2100,
+	"parcours": {
+		"slug": "20230101_vin-r1c4-png",
+		"updated_at": "2022-12-30T12:14:34+01:00"
+	},
+	"partants": [
+		{
+			"monte": {
+				"nom_monte": "V.P. DELL'ANNUNZIATA"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "cokstile",
+				"uuid": "ec558f2c-5d9f-4efc-8e72-9f4732b5fa62",
+				"valeur": 0,
+				"musique": "(23)0A9A3A5A1A3A",
+				"age_cheval": 11,
+				"entraineur": {
+					"nom_entraineur": "G. CASILLO"
+				},
+				"nom_cheval": "COKSTILE",
+				"sexe_cheval": "M",
+				"gains_carriere": 1828968
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p1-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"entraineur": {
+				"nom_entraineur": "G. CASILLO"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p1-png",
+			"temps_part": "2'28\"30",
+			"num_partant": 1,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"60",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "09",
+			"place_corde_partant": "1",
+			"texte_place_arrivee": "09",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "B. ROCHARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "gu-dheripre",
+				"uuid": "a9f27774-ad7c-4136-8fdb-ba14c868f04f",
+				"musique": "(23)1A3A8A5A0ADADA(22)6A",
+				"age_cheval": 8,
+				"entraineur": {
+					"nom_entraineur": "F. SOULOY"
+				},
+				"nom_cheval": "GU D'HERIPRE",
+				"sexe_cheval": "M",
+				"gains_carriere": 971200
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p2-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"entraineur": {
+				"nom_entraineur": "F. SOULOY"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p2-png",
+			"num_partant": 2,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"place_corde_partant": "2",
+			"texte_place_arrivee": "Disqualifié",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "THEO DUVALDESTIN"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "flamme-du-goutier",
+				"uuid": "b7aa31b5-5ce8-480a-9f05-dafdc78fddc4",
+				"valeur": 0,
+				"musique": "5M(23)7A0ADA2A6A0A7A0A",
+				"age_cheval": 9,
+				"entraineur": {
+					"nom_entraineur": "TH. DUVALDESTIN"
+				},
+				"nom_cheval": "FLAMME DU GOUTIER",
+				"sexe_cheval": "F",
+				"gains_carriere": 1636955
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p3-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"entraineur": {
+				"nom_entraineur": "TH. DUVALDESTIN"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p3-png",
+			"temps_part": "2'26\"40",
+			"num_partant": 3,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'09\"70",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "6",
+			"num_place_arrivee": "02",
+			"place_corde_partant": "3",
+			"texte_place_arrivee": "02",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "A. BARRIER"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "etonnant",
+				"uuid": "9447a37b-5cdb-497d-a5fc-7bf56c6d00b8",
+				"valeur": 0,
+				"musique": "DA0A4A1A1A5A1A3A1A1A",
+				"age_cheval": 10,
+				"entraineur": {
+					"nom_entraineur": "R. WESTERINK"
+				},
+				"nom_cheval": "ETONNANT",
+				"sexe_cheval": "M",
+				"gains_carriere": 2526710
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p4-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P4"
+			},
+			"entraineur": {
+				"nom_entraineur": "R. WESTERINK"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p4-png",
+			"temps_part": "2'28\"00",
+			"last_itw_av": {
+				"video_id": "230101-ITWAVR1C4P4"
+			},
+			"num_partant": 4,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"50",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"num_place_arrivee": "08",
+			"place_corde_partant": "4",
+			"texte_place_arrivee": "08",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "P.Y. VERVA"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "delia-du-pommereux",
+				"uuid": "6cae4c90-388f-401e-8174-2fe405aab733",
+				"valeur": 0,
+				"musique": "DA0A(23)8A2A0A0A0A0A0A",
+				"age_cheval": 11,
+				"entraineur": {
+					"nom_entraineur": "S. ROGER"
+				},
+				"nom_cheval": "DELIA DU POMMEREUX",
+				"sexe_cheval": "F",
+				"gains_carriere": 1893755
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p5-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P5"
+			},
+			"age_cheval": 10,
+			"entraineur": {
+				"nom_entraineur": "S. ROGER"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p5-png",
+			"temps_part": "2'26\"20",
+			"last_itw_ap": {
+				"video_id": "230101-ITWAPR1C4P5"
+			},
+			"last_itw_av": {
+				"video_id": "230101-ITWAVR1C4P5"
+			},
+			"num_partant": 5,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'09\"60",
+			"attache_langue": false,
+			"gains_carriere": 1757065,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "01",
+			"place_corde_partant": "5",
+			"texte_place_arrivee": "01",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "E. RAFFIN"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "zarenne-fas",
+				"uuid": "176f0676-cdf6-4f24-b98d-5e0f2f7eb2bb",
+				"musique": "6A7A5ADA4M5M",
+				"age_cheval": 9,
+				"entraineur": {
+					"nom_entraineur": "VITALE CIOTOLA"
+				},
+				"nom_cheval": "ZARENNE FAS",
+				"sexe_cheval": "M",
+				"gains_carriere": 942866
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p6-png-2",
+				"updated_at": "2022-12-30T17:22:51+01:00"
+			},
+			"type_eng": "N",
+			"entraineur": {
+				"nom_entraineur": "J.M. BAZIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p6-png-2",
+			"temps_part": "2'27\"30",
+			"num_partant": 6,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"10",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "05",
+			"place_corde_partant": "6",
+			"texte_place_arrivee": "05",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "A. GOCCIADORO"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "vernissage-grif",
+				"uuid": "6c82a23d-8654-49cc-b649-fb32dd75b659",
+				"musique": "7A(23)2A3A9A1A1A",
+				"age_cheval": 10,
+				"entraineur": {
+					"nom_entraineur": "A. GOCCIADORO"
+				},
+				"nom_cheval": "VERNISSAGE GRIF",
+				"sexe_cheval": "M",
+				"gains_carriere": 1660096
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p7-png-1",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P7"
+			},
+			"entraineur": {
+				"nom_entraineur": "A. GOCCIADORO"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p7-png-1",
+			"temps_part": "2'27\"60",
+			"num_partant": 7,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"30",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "06",
+			"place_corde_partant": "7",
+			"texte_place_arrivee": "06",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "A. ABRIVARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "bleff-dipa",
+				"uuid": "a238b550-c42c-4d42-9bb0-5c6d0a4f6bea",
+				"musique": "(23)0A1ADA1A2A2A",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "H.K. EHLERT"
+				},
+				"nom_cheval": "BLEFF DIPA",
+				"sexe_cheval": "M",
+				"gains_carriere": 1066010
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p8-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P8"
+			},
+			"entraineur": {
+				"nom_entraineur": "H.K. EHLERT"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p8-png",
+			"temps_part": "2'29\"70",
+			"num_partant": 8,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'11\"30",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "1",
+			"num_place_arrivee": "11",
+			"place_corde_partant": "8",
+			"texte_place_arrivee": "11",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "T. OUVRIE"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "hooker-berry",
+				"uuid": "c4b74aa6-d31d-4a83-9358-77276875bb6d",
+				"musique": "3A6A3A9A6A8A(23)0A5A2A",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "F. LEBLANC"
+				},
+				"nom_cheval": "HOOKER BERRY",
+				"sexe_cheval": "M",
+				"gains_carriere": 1625320
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p9-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"age_cheval": 6,
+			"entraineur": {
+				"nom_entraineur": "J.M. BAZIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p9-png",
+			"temps_part": "2'30\"50",
+			"num_partant": 9,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'11\"70",
+			"attache_langue": false,
+			"gains_carriere": 913270,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"num_place_arrivee": "14",
+			"place_corde_partant": "9",
+			"texte_place_arrivee": "14",
+			"code_avis_entraineur": 3,
+			"libelle_avis_entraineur": "Avis négatif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "B. ROBIN"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "hussard-du-landret",
+				"uuid": "c7456ca4-390f-4044-b0ce-7b575a4df70d",
+				"musique": "7A1ADA4A(23)4A7A1A3A7A",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "B. ROBIN"
+				},
+				"nom_cheval": "HUSSARD DU LANDRET",
+				"sexe_cheval": "M",
+				"gains_carriere": 963360
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p10-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"age_cheval": 6,
+			"entraineur": {
+				"nom_entraineur": "B. ROBIN"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p10-png",
+			"temps_part": "2'31\"30",
+			"num_partant": 10,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'12\"00",
+			"attache_langue": false,
+			"gains_carriere": 606900,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "",
+			"num_place_arrivee": "15",
+			"place_corde_partant": "10",
+			"texte_place_arrivee": "15",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "F. NIVARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "ampia-mede-sm",
+				"uuid": "57f1f414-bd24-4b1e-aa32-3d6730d3326c",
+				"musique": "3A7A(23)3A4A4ADA1A1A1A",
+				"age_cheval": 8,
+				"entraineur": {
+					"nom_entraineur": "F. SOULOY"
+				},
+				"nom_cheval": "AMPIA MEDE SM",
+				"sexe_cheval": "F",
+				"gains_carriere": 1449096
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p11-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"age_cheval": 7,
+			"entraineur": {
+				"nom_entraineur": "F. SOULOY"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p11-png",
+			"temps_part": "2'26\"80",
+			"num_partant": 11,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'09\"90",
+			"attache_langue": false,
+			"gains_carriere": 594700,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "03",
+			"place_corde_partant": "11",
+			"texte_place_arrivee": "03",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "M. MOTTIER"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "fakir-de-mahey",
+				"uuid": "64cd7cdb-ad75-457a-804f-ff3b2fc234e3",
+				"musique": "8A0A3A(23)3A3A2ADADADA",
+				"age_cheval": 9,
+				"entraineur": {
+					"nom_entraineur": "M. MOTTIER"
+				},
+				"nom_cheval": "FAKIR DE MAHEY",
+				"sexe_cheval": "M",
+				"gains_carriere": 481950
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p12-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"age_cheval": 8,
+			"entraineur": {
+				"nom_entraineur": "M. MOTTIER"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p12-png",
+			"temps_part": "2'27\"90",
+			"num_partant": 12,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"40",
+			"attache_langue": false,
+			"gains_carriere": 365370,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "07",
+			"place_corde_partant": "12",
+			"texte_place_arrivee": "07",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "Y. LEBOURGEOIS"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "beads-usa",
+				"uuid": "0527834b-fc31-43b9-9802-674c23cdf0e3",
+				"musique": "(23)9A1ADADADA1A",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "A. GOCCIADORO"
+				},
+				"nom_cheval": "BEADS (USA)",
+				"sexe_cheval": "M",
+				"gains_carriere": 651388
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p13-png-1",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P13"
+			},
+			"entraineur": {
+				"nom_entraineur": "N. BAZIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p13-png-1",
+			"temps_part": "2'29\"90",
+			"num_partant": 13,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'11\"40",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "2",
+			"num_place_arrivee": "13",
+			"place_corde_partant": "13",
+			"texte_place_arrivee": "13",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "G. GELORMINI"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "decoloration",
+				"uuid": "d3ea20eb-d319-481e-9d12-85aed193a8d8",
+				"valeur": 0,
+				"musique": "0ADADA2A4A(22)4A0A3A0A",
+				"age_cheval": 11,
+				"entraineur": {
+					"nom_entraineur": "J.M. BAUDOUIN"
+				},
+				"nom_cheval": "DECOLORATION",
+				"sexe_cheval": "F",
+				"gains_carriere": 705460
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p14-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P14"
+			},
+			"entraineur": {
+				"nom_entraineur": "J.M. BAUDOUIN"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p14-png",
+			"temps_part": "2'26\"90",
+			"num_partant": 14,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"00",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "3",
+			"num_place_arrivee": "04",
+			"place_corde_partant": "14",
+			"texte_place_arrivee": "04",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "J.M. BAZIRE"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "heraut-darmes",
+				"uuid": "b4990ed5-3fac-4ee1-a232-909d2555af39",
+				"musique": "DA6A6A2A8ADA7A0ADADA",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "J.M. BAZIRE"
+				},
+				"nom_cheval": "HERAUT D'ARMES",
+				"sexe_cheval": "M",
+				"gains_carriere": 339140
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p15-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P15"
+			},
+			"entraineur": {
+				"nom_entraineur": "J.M. BAZIRE"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p15-png",
+			"num_partant": 15,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "2",
+			"place_corde_partant": "15",
+			"texte_place_arrivee": "Disqualifié",
+			"code_avis_entraineur": 1,
+			"libelle_avis_entraineur": "Avis positif",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "D. THOMAIN"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "hokkaido-jiel",
+				"uuid": "f7d1d079-973e-43f5-b900-1bb419def13c",
+				"musique": "7A5A2A7A(23)DA0A3ADA1A",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "J.L. DERSOIR"
+				},
+				"nom_cheval": "HOKKAIDO JIEL",
+				"sexe_cheval": "M",
+				"gains_carriere": 953680
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p16-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P16"
+			},
+			"age_cheval": 6,
+			"entraineur": {
+				"nom_entraineur": "J.L. DERSOIR"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p16-png",
+			"num_partant": 16,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"attache_langue": false,
+			"gains_carriere": 379780,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "1",
+			"place_corde_partant": "16",
+			"texte_place_arrivee": "Disqualifié",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "F. OUVRIE"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "violetto-jet",
+				"uuid": "709efdd5-3853-4449-bd03-dfc7dbd2b4d7",
+				"musique": "0A(22)DADA7A5A7A6A",
+				"age_cheval": 10,
+				"entraineur": {
+					"nom_entraineur": "SALVATORE MINOPOLI"
+				},
+				"nom_cheval": "VIOLETTO JET",
+				"sexe_cheval": "M",
+				"gains_carriere": 698562
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p17-png-1",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P17"
+			},
+			"entraineur": {
+				"nom_entraineur": "F. SOULOY"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p17-png-1",
+			"temps_part": "2'29\"70",
+			"num_partant": 17,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'11\"30",
+			"attache_langue": false,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "2",
+			"num_place_arrivee": "12",
+			"place_corde_partant": "17",
+			"texte_place_arrivee": "12",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		},
+		{
+			"monte": {
+				"nom_monte": "L.CL. ABRIVARD"
+			},
+			"bonnet": false,
+			"cheval": {
+				"slug": "hanna-des-molles",
+				"uuid": "a4d62135-9b8a-44c0-97e7-6efc70b5018a",
+				"musique": "8A3A6M0M(23)6A0A0A0A1M",
+				"age_cheval": 7,
+				"entraineur": {
+					"nom_entraineur": "L.CL. ABRIVARD"
+				},
+				"nom_cheval": "HANNA DES MOLLES",
+				"sexe_cheval": "F",
+				"gains_carriere": 902120
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p18-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"type_eng": "N",
+			"last_heat": {
+				"video_id": "230101-HEATR1C4P18"
+			},
+			"age_cheval": 6,
+			"entraineur": {
+				"nom_entraineur": "L.CL. ABRIVARD"
+			},
+			"silks_path": "https://media.equidia.fr/unsafe/fit-in/0x0/https://api.equidia.fr/api/public/media/original/20230101-r1c4p18-png",
+			"temps_part": "2'28\"60",
+			"num_partant": 18,
+			"statut_part": "DP",
+			"dist_partant": "2100",
+			"oeil_partant": "N",
+			"reduction_km": "1'10\"80",
+			"attache_langue": false,
+			"gains_carriere": 594820,
+			"statut_part_pcc": "DP",
+			"deferrer_partant": "5",
+			"num_place_arrivee": "10",
+			"place_corde_partant": "18",
+			"texte_place_arrivee": "10",
+			"code_avis_entraineur": 2,
+			"libelle_avis_entraineur": "Avis neutre",
+			"oeil_partant_first_time": false,
+			"deferrer_partant_first_time": false
+		}
+	],
+	"rapports": [
+		{
+			"pari_type": {
+				"titre": "Simple gagnant",
+				"weight": 1,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/simple.svg",
+				"code_pari": "1",
+				"odds_type": "TYPE_RAPPORT_GAGNANT_PLACE",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"place": "3,60",
+						"gagnant": "14,20",
+						"place_mb": "5,40",
+						"gagnant_mb": "21,30",
+						"sum_mises_gagn": "18.927,13",
+						"sum_mises_place": "25.195,23",
+						"combinaison_rap_def": "05",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,70",
+						"place_mb": "5,55",
+						"sum_mises_place": "24.142,08",
+						"combinaison_rap_def": "03",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,60",
+						"place_mb": "5,40",
+						"sum_mises_place": "25.333,06",
+						"combinaison_rap_def": "11",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					}
+				],
+				"code_pari_generique": "1",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Tiercé",
+				"weight": 10,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/tierce.svg",
+				"code_pari": "11",
+				"odds_type": "TYPE_RAPPORT_TYPE",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,00",
+				"combinaisons": [
+					{
+						"gagnant": "488,60",
+						"gagnant_mb": "488,60",
+						"sum_mises_gagn": "393,13",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "Ordre",
+						"sum_mises_gagn_type_res_rap_def": "393,13"
+					},
+					{
+						"gagnant": "79,70",
+						"gagnant_mb": "79,70",
+						"sum_mises_gagn": "2.047,61",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "Désordre",
+						"sum_mises_gagn_type_res_rap_def": "2.047,61"
+					}
+				],
+				"code_pari_generique": "7",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Quarté+",
+				"weight": 12,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/quarte.svg",
+				"code_pari": "13",
+				"odds_type": "TYPE_RAPPORT_TYPE",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,30",
+				"combinaisons": [
+					{
+						"gagnant": "2.526,90",
+						"gagnant_mb": "3.284,97",
+						"sum_mises_gagn": "25,63",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Ordre",
+						"sum_mises_gagn_type_res_rap_def": "25,63"
+					},
+					{
+						"gagnant": "203,10",
+						"gagnant_mb": "264,03",
+						"sum_mises_gagn": "371,29",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Désordre",
+						"sum_mises_gagn_type_res_rap_def": "371,29"
+					},
+					{
+						"gagnant": "16,00",
+						"gagnant_mb": "20,80",
+						"sum_mises_gagn": "7.590,60",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "Bonus",
+						"sum_mises_gagn_type_res_rap_def": "7.590,60"
+					}
+				],
+				"code_pari_generique": "8",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Simple placé",
+				"code_pari": "2",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"place": "3,60",
+						"gagnant": "14,20",
+						"place_mb": "5,40",
+						"gagnant_mb": "21,30",
+						"sum_mises_gagn": "18.927,13",
+						"sum_mises_place": "25.195,23",
+						"combinaison_rap_def": "05",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,70",
+						"place_mb": "5,55",
+						"sum_mises_place": "24.142,08",
+						"combinaison_rap_def": "03",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,60",
+						"place_mb": "5,40",
+						"sum_mises_place": "25.333,06",
+						"combinaison_rap_def": "11",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					}
+				],
+				"code_pari_generique": "1",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Multi",
+				"weight": 14,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/multi.svg",
+				"code_pari": "20",
+				"odds_type": "TYPE_RAPPORT_TYPE",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "3,00",
+				"combinaisons": [
+					{
+						"gagnant": "913,50",
+						"gagnant_mb": "2.740,50",
+						"sum_mises_gagn": "12,25",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Multi en 4",
+						"sum_mises_gagn_type_res_rap_def": "12,25"
+					},
+					{
+						"gagnant": "182,70",
+						"gagnant_mb": "548,10",
+						"sum_mises_gagn": "59,00",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Multi en 5",
+						"sum_mises_gagn_type_res_rap_def": "59,00"
+					},
+					{
+						"gagnant": "60,90",
+						"gagnant_mb": "182,70",
+						"sum_mises_gagn": "394,99",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Multi en 6",
+						"sum_mises_gagn_type_res_rap_def": "394,99"
+					},
+					{
+						"gagnant": "26,10",
+						"gagnant_mb": "78,30",
+						"sum_mises_gagn": "2.154,64",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Multi en 7",
+						"sum_mises_gagn_type_res_rap_def": "2.154,64"
+					}
+				],
+				"code_pari_generique": "10",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Quinté+",
+				"weight": 13,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/quinte-plus.svg",
+				"code_pari": "27",
+				"odds_type": "TYPE_RAPPORT_TYPE",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"tirelire": "500.000",
+				"mise_base": "2,00",
+				"combinaisons": [
+					{
+						"gagnant": "60.115,70",
+						"gagnant_mb": "120.231,40",
+						"sum_mises_gagn": "8,52",
+						"combinaison_rap_def": "05-03-11-14-06",
+						"type_reserve_rap_def": "Ordre",
+						"sum_mises_gagn_type_res_rap_def": "8,52"
+					},
+					{
+						"gagnant": "414,60",
+						"gagnant_mb": "829,20",
+						"sum_mises_gagn": "820,86",
+						"combinaison_rap_def": "05-03-11-14-06",
+						"type_reserve_rap_def": "Désordre",
+						"sum_mises_gagn_type_res_rap_def": "820,86"
+					},
+					{
+						"gagnant": "24,50",
+						"gagnant_mb": "49,00",
+						"sum_mises_gagn": "6.668,36",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Bonus 4",
+						"sum_mises_gagn_type_res_rap_def": "6.668,36"
+					},
+					{
+						"gagnant": "4,30",
+						"gagnant_mb": "8,60",
+						"sum_mises_gagn": "82.497,71",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "Bonus 3",
+						"sum_mises_gagn_type_res_rap_def": "82.497,71"
+					}
+				],
+				"code_pari_generique": "14",
+				"audience_pari_course": "04",
+				"date_prochaine_tirelire": "02/01/2023"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Couplé gagnant",
+				"weight": 2,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/couple.svg",
+				"code_pari": "3",
+				"odds_type": "TYPE_RAPPORT_GAGNANT_PLACE",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"place": "16,90",
+						"gagnant": "57,00",
+						"place_mb": "25,35",
+						"gagnant_mb": "85,50",
+						"sum_mises_gagn": "1.876,79",
+						"sum_mises_place": "4.151,60",
+						"combinaison_rap_def": "05-03",
+						"type_reserve_rap_def": "Couplé",
+						"sum_mises_gagn_type_res_rap_def": "1.876,79",
+						"sum_mises_place_type_res_rap_def": "11.944,21"
+					},
+					{
+						"place": "16,70",
+						"place_mb": "25,05",
+						"sum_mises_place": "4.213,76",
+						"combinaison_rap_def": "05-11",
+						"type_reserve_rap_def": "Couplé",
+						"sum_mises_gagn_type_res_rap_def": "1.876,79",
+						"sum_mises_place_type_res_rap_def": "11.944,21"
+					},
+					{
+						"place": "18,40",
+						"place_mb": "27,60",
+						"sum_mises_place": "3.578,85",
+						"combinaison_rap_def": "03-11",
+						"type_reserve_rap_def": "Couplé",
+						"sum_mises_gagn_type_res_rap_def": "1.876,79",
+						"sum_mises_place_type_res_rap_def": "11.944,21"
+					}
+				],
+				"code_pari_generique": "2",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Couplé placé",
+				"code_pari": "4",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"place": "16,90",
+						"gagnant": "57,00",
+						"place_mb": "25,35",
+						"gagnant_mb": "85,50",
+						"sum_mises_gagn": "1.876,79",
+						"sum_mises_place": "4.151,60",
+						"combinaison_rap_def": "05-03",
+						"type_reserve_rap_def": "Couplé",
+						"sum_mises_gagn_type_res_rap_def": "1.876,79",
+						"sum_mises_place_type_res_rap_def": "11.944,21"
+					},
+					{
+						"place": "16,70",
+						"place_mb": "25,05",
+						"sum_mises_place": "4.213,76",
+						"combinaison_rap_def": "05-11",
+						"type_reserve_rap_def": "Couplé",
+						"sum_mises_gagn_type_res_rap_def": "1.876,79",
+						"sum_mises_place_type_res_rap_def": "11.944,21"
+					},
+					{
+						"place": "18,40",
+						"place_mb": "27,60",
+						"sum_mises_place": "3.578,85",
+						"combinaison_rap_def": "03-11",
+						"type_reserve_rap_def": "Couplé",
+						"sum_mises_gagn_type_res_rap_def": "1.876,79",
+						"sum_mises_place_type_res_rap_def": "11.944,21"
+					}
+				],
+				"code_pari_generique": "2",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Simple gagnant International",
+				"code_pari": "41",
+				"type_paris": "ON-OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"place": "3,60",
+						"gagnant": "14,20",
+						"place_mb": "5,40",
+						"gagnant_mb": "21,30",
+						"sum_mises_gagn": "18.927,13",
+						"sum_mises_place": "25.195,23",
+						"combinaison_rap_def": "05",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,70",
+						"place_mb": "5,55",
+						"sum_mises_place": "24.142,08",
+						"combinaison_rap_def": "03",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,60",
+						"place_mb": "5,40",
+						"sum_mises_place": "25.333,06",
+						"combinaison_rap_def": "11",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					}
+				],
+				"code_pari_generique": "1",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "Simple placé International",
+				"code_pari": "42",
+				"type_paris": "ON-OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"place": "3,60",
+						"gagnant": "14,20",
+						"place_mb": "5,40",
+						"gagnant_mb": "21,30",
+						"sum_mises_gagn": "18.927,13",
+						"sum_mises_place": "25.195,23",
+						"combinaison_rap_def": "05",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,70",
+						"place_mb": "5,55",
+						"sum_mises_place": "24.142,08",
+						"combinaison_rap_def": "03",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					},
+					{
+						"place": "3,60",
+						"place_mb": "5,40",
+						"sum_mises_place": "25.333,06",
+						"combinaison_rap_def": "11",
+						"type_reserve_rap_def": "Simple",
+						"sum_mises_gagn_type_res_rap_def": "18.927,13",
+						"sum_mises_place_type_res_rap_def": "74.670,37"
+					}
+				],
+				"code_pari_generique": "1",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Simple Gagnant",
+				"code_pari": "43",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,00",
+				"combinaisons": [
+					{
+						"place": "3,40",
+						"gagnant": "15,30",
+						"place_mb": "3,40",
+						"gagnant_mb": "15,30",
+						"sum_mises_gagn": "5.384,60",
+						"sum_mises_place": "10.171,96",
+						"combinaison_rap_def": "05",
+						"type_reserve_rap_def": "e-Simple",
+						"sum_mises_gagn_type_res_rap_def": "5.384,60",
+						"sum_mises_place_type_res_rap_def": "30.010,43"
+					},
+					{
+						"place": "3,80",
+						"place_mb": "3,80",
+						"sum_mises_place": "9.034,70",
+						"combinaison_rap_def": "03",
+						"type_reserve_rap_def": "e-Simple",
+						"sum_mises_gagn_type_res_rap_def": "5.384,60",
+						"sum_mises_place_type_res_rap_def": "30.010,43"
+					},
+					{
+						"place": "3,30",
+						"place_mb": "3,30",
+						"sum_mises_place": "10.803,77",
+						"combinaison_rap_def": "11",
+						"type_reserve_rap_def": "e-Simple",
+						"sum_mises_gagn_type_res_rap_def": "5.384,60",
+						"sum_mises_place_type_res_rap_def": "30.010,43"
+					}
+				],
+				"code_pari_generique": "101",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Simple Placé",
+				"code_pari": "44",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,00",
+				"combinaisons": [
+					{
+						"place": "3,40",
+						"gagnant": "15,30",
+						"place_mb": "3,40",
+						"gagnant_mb": "15,30",
+						"sum_mises_gagn": "5.384,60",
+						"sum_mises_place": "10.171,96",
+						"combinaison_rap_def": "05",
+						"type_reserve_rap_def": "e-Simple",
+						"sum_mises_gagn_type_res_rap_def": "5.384,60",
+						"sum_mises_place_type_res_rap_def": "30.010,43"
+					},
+					{
+						"place": "3,80",
+						"place_mb": "3,80",
+						"sum_mises_place": "9.034,70",
+						"combinaison_rap_def": "03",
+						"type_reserve_rap_def": "e-Simple",
+						"sum_mises_gagn_type_res_rap_def": "5.384,60",
+						"sum_mises_place_type_res_rap_def": "30.010,43"
+					},
+					{
+						"place": "3,30",
+						"place_mb": "3,30",
+						"sum_mises_place": "10.803,77",
+						"combinaison_rap_def": "11",
+						"type_reserve_rap_def": "e-Simple",
+						"sum_mises_gagn_type_res_rap_def": "5.384,60",
+						"sum_mises_place_type_res_rap_def": "30.010,43"
+					}
+				],
+				"code_pari_generique": "101",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Couplé Gagnant",
+				"code_pari": "45",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,00",
+				"combinaisons": [
+					{
+						"place": "12,60",
+						"gagnant": "41,40",
+						"place_mb": "12,60",
+						"gagnant_mb": "41,40",
+						"sum_mises_gagn": "561,00",
+						"sum_mises_place": "1.151,25",
+						"combinaison_rap_def": "05-03",
+						"type_reserve_rap_def": "e-Couplé",
+						"sum_mises_gagn_type_res_rap_def": "561,00",
+						"sum_mises_place_type_res_rap_def": "2.562,25"
+					},
+					{
+						"place": "15,40",
+						"place_mb": "15,40",
+						"sum_mises_place": "829,00",
+						"combinaison_rap_def": "05-11",
+						"type_reserve_rap_def": "e-Couplé",
+						"sum_mises_gagn_type_res_rap_def": "561,00",
+						"sum_mises_place_type_res_rap_def": "2.562,25"
+					},
+					{
+						"place": "18,90",
+						"place_mb": "18,90",
+						"sum_mises_place": "582,00",
+						"combinaison_rap_def": "03-11",
+						"type_reserve_rap_def": "e-Couplé",
+						"sum_mises_gagn_type_res_rap_def": "561,00",
+						"sum_mises_place_type_res_rap_def": "2.562,25"
+					}
+				],
+				"code_pari_generique": "102",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Couplé Placé",
+				"code_pari": "46",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,00",
+				"combinaisons": [
+					{
+						"place": "12,60",
+						"gagnant": "41,40",
+						"place_mb": "12,60",
+						"gagnant_mb": "41,40",
+						"sum_mises_gagn": "561,00",
+						"sum_mises_place": "1.151,25",
+						"combinaison_rap_def": "05-03",
+						"type_reserve_rap_def": "e-Couplé",
+						"sum_mises_gagn_type_res_rap_def": "561,00",
+						"sum_mises_place_type_res_rap_def": "2.562,25"
+					},
+					{
+						"place": "15,40",
+						"place_mb": "15,40",
+						"sum_mises_place": "829,00",
+						"combinaison_rap_def": "05-11",
+						"type_reserve_rap_def": "e-Couplé",
+						"sum_mises_gagn_type_res_rap_def": "561,00",
+						"sum_mises_place_type_res_rap_def": "2.562,25"
+					},
+					{
+						"place": "18,90",
+						"place_mb": "18,90",
+						"sum_mises_place": "582,00",
+						"combinaison_rap_def": "03-11",
+						"type_reserve_rap_def": "e-Couplé",
+						"sum_mises_gagn_type_res_rap_def": "561,00",
+						"sum_mises_place_type_res_rap_def": "2.562,25"
+					}
+				],
+				"code_pari_generique": "102",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-2sur4",
+				"code_pari": "48",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "3,00",
+				"combinaisons": [
+					{
+						"gagnant": "13,20",
+						"gagnant_mb": "39,60",
+						"sum_mises_gagn": "1.255,73",
+						"combinaison_rap_def": "05-03",
+						"type_reserve_rap_def": "e-2sur4",
+						"sum_mises_gagn_type_res_rap_def": "1.255,73"
+					},
+					{
+						"gagnant": "13,20",
+						"gagnant_mb": "39,60",
+						"sum_mises_gagn": "1.255,73",
+						"combinaison_rap_def": "05-11",
+						"type_reserve_rap_def": "e-2sur4",
+						"sum_mises_gagn_type_res_rap_def": "1.255,73"
+					},
+					{
+						"gagnant": "13,20",
+						"gagnant_mb": "39,60",
+						"sum_mises_gagn": "1.255,73",
+						"combinaison_rap_def": "05-14",
+						"type_reserve_rap_def": "e-2sur4",
+						"sum_mises_gagn_type_res_rap_def": "1.255,73"
+					},
+					{
+						"gagnant": "13,20",
+						"gagnant_mb": "39,60",
+						"sum_mises_gagn": "1.255,73",
+						"combinaison_rap_def": "03-11",
+						"type_reserve_rap_def": "e-2sur4",
+						"sum_mises_gagn_type_res_rap_def": "1.255,73"
+					},
+					{
+						"gagnant": "13,20",
+						"gagnant_mb": "39,60",
+						"sum_mises_gagn": "1.255,73",
+						"combinaison_rap_def": "03-14",
+						"type_reserve_rap_def": "e-2sur4",
+						"sum_mises_gagn_type_res_rap_def": "1.255,73"
+					},
+					{
+						"gagnant": "13,20",
+						"gagnant_mb": "39,60",
+						"sum_mises_gagn": "1.255,73",
+						"combinaison_rap_def": "11-14",
+						"type_reserve_rap_def": "e-2sur4",
+						"sum_mises_gagn_type_res_rap_def": "1.255,73"
+					}
+				],
+				"code_pari_generique": "104",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Tiercé",
+				"code_pari": "50",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,00",
+				"combinaisons": [
+					{
+						"gagnant": "578,70",
+						"gagnant_mb": "578,70",
+						"sum_mises_gagn": "53,00",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "e-Tiercé Exact",
+						"sum_mises_gagn_type_res_rap_def": "53,00"
+					},
+					{
+						"gagnant": "95,20",
+						"gagnant_mb": "95,20",
+						"sum_mises_gagn": "250,50",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "e-Tiercé Base",
+						"sum_mises_gagn_type_res_rap_def": "250,50"
+					}
+				],
+				"code_pari_generique": "107",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Quarté+",
+				"code_pari": "51",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "1,50",
+				"combinaisons": [
+					{
+						"gagnant": "2.283,80",
+						"gagnant_mb": "3.425,70",
+						"sum_mises_gagn": "4,50",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Ordre",
+						"sum_mises_gagn_type_res_rap_def": "4,50"
+					},
+					{
+						"gagnant": "211,60",
+						"gagnant_mb": "317,40",
+						"sum_mises_gagn": "27,83",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "Désordre",
+						"sum_mises_gagn_type_res_rap_def": "27,83"
+					},
+					{
+						"gagnant": "17,20",
+						"gagnant_mb": "25,80",
+						"sum_mises_gagn": "807,17",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "Bonus",
+						"sum_mises_gagn_type_res_rap_def": "807,17"
+					}
+				],
+				"code_pari_generique": "108",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Multi",
+				"code_pari": "55",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"mise_base": "3,00",
+				"combinaisons": [
+					{
+						"gagnant": "724,50",
+						"gagnant_mb": "2.173,50",
+						"sum_mises_gagn": "5,17",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "e-Multi en 4",
+						"sum_mises_gagn_type_res_rap_def": "5,17"
+					},
+					{
+						"gagnant": "144,90",
+						"gagnant_mb": "434,70",
+						"sum_mises_gagn": "7,00",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "e-Multi en 5",
+						"sum_mises_gagn_type_res_rap_def": "7,00"
+					},
+					{
+						"gagnant": "48,30",
+						"gagnant_mb": "144,90",
+						"sum_mises_gagn": "56,17",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "e-Multi en 6",
+						"sum_mises_gagn_type_res_rap_def": "56,17"
+					},
+					{
+						"gagnant": "20,70",
+						"gagnant_mb": "62,10",
+						"sum_mises_gagn": "302,83",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "e-Multi en 7",
+						"sum_mises_gagn_type_res_rap_def": "302,83"
+					}
+				],
+				"code_pari_generique": "110",
+				"audience_pari_course": "04"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "e-Quinté+",
+				"code_pari": "57",
+				"type_paris": "ON"
+			},
+			"rapport_definitif": {
+				"tirelire": "100.000",
+				"mise_base": "2,00",
+				"combinaisons": [
+					{
+						"gagnant": "101.343,60",
+						"gagnant_mb": "202.687,20",
+						"sum_mises_gagn": "0,50",
+						"combinaison_rap_def": "05-03-11-14-06",
+						"type_reserve_rap_def": "Ordre",
+						"sum_mises_gagn_type_res_rap_def": "0,50"
+					},
+					{
+						"gagnant": "670,60",
+						"gagnant_mb": "1.341,20",
+						"sum_mises_gagn": "82,00",
+						"combinaison_rap_def": "05-03-11-14-06",
+						"type_reserve_rap_def": "Désordre",
+						"sum_mises_gagn_type_res_rap_def": "82,00"
+					},
+					{
+						"gagnant": "4,00",
+						"gagnant_mb": "8,00",
+						"sum_mises_gagn": "12.879,75",
+						"combinaison_rap_def": "05-03-11",
+						"type_reserve_rap_def": "e-Bonus 3",
+						"sum_mises_gagn_type_res_rap_def": "12.879,75"
+					},
+					{
+						"gagnant": "25,60",
+						"gagnant_mb": "51,20",
+						"sum_mises_gagn": "926,00",
+						"combinaison_rap_def": "05-03-11-14",
+						"type_reserve_rap_def": "e-Bonus 4",
+						"sum_mises_gagn_type_res_rap_def": "926,00"
+					}
+				],
+				"code_pari_generique": "114",
+				"audience_pari_course": "04",
+				"date_prochaine_tirelire": "02/01/2023"
+			}
+		},
+		{
+			"pari_type": {
+				"titre": "2 sur 4",
+				"weight": 16,
+				"bet_path": "https://static.equidia.fr/assets/design-system/pari/2sur4.svg",
+				"code_pari": "8",
+				"odds_type": "TYPE_RAPPORT_8",
+				"type_paris": "OFF"
+			},
+			"rapport_definitif": {
+				"mise_base": "3,00",
+				"combinaisons": [
+					{
+						"gagnant": "11,70",
+						"gagnant_mb": "35,10",
+						"sum_mises_gagn": "10.447,14",
+						"combinaison_rap_def": "05-03",
+						"type_reserve_rap_def": "2 sur 4",
+						"sum_mises_gagn_type_res_rap_def": "10.447,14"
+					},
+					{
+						"gagnant": "11,70",
+						"gagnant_mb": "35,10",
+						"sum_mises_gagn": "10.447,14",
+						"combinaison_rap_def": "05-11",
+						"type_reserve_rap_def": "2 sur 4",
+						"sum_mises_gagn_type_res_rap_def": "10.447,14"
+					},
+					{
+						"gagnant": "11,70",
+						"gagnant_mb": "35,10",
+						"sum_mises_gagn": "10.447,14",
+						"combinaison_rap_def": "05-14",
+						"type_reserve_rap_def": "2 sur 4",
+						"sum_mises_gagn_type_res_rap_def": "10.447,14"
+					},
+					{
+						"gagnant": "11,70",
+						"gagnant_mb": "35,10",
+						"sum_mises_gagn": "10.447,14",
+						"combinaison_rap_def": "03-11",
+						"type_reserve_rap_def": "2 sur 4",
+						"sum_mises_gagn_type_res_rap_def": "10.447,14"
+					},
+					{
+						"gagnant": "11,70",
+						"gagnant_mb": "35,10",
+						"sum_mises_gagn": "10.447,14",
+						"combinaison_rap_def": "03-14",
+						"type_reserve_rap_def": "2 sur 4",
+						"sum_mises_gagn_type_res_rap_def": "10.447,14"
+					},
+					{
+						"gagnant": "11,70",
+						"gagnant_mb": "35,10",
+						"sum_mises_gagn": "10.447,14",
+						"combinaison_rap_def": "11-14",
+						"type_reserve_rap_def": "2 sur 4",
+						"sum_mises_gagn_type_res_rap_def": "10.447,14"
+					}
+				],
+				"code_pari_generique": "4",
+				"audience_pari_course": "04"
+			}
+		}
+	],
+	"tracking": [
+		{
+			"cheval": {
+				"uuid": "ec558f2c-5d9f-4efc-8e72-9f4732b5fa62",
+				"nom_cheval": "COKSTILE"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p1-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 1,
+			"num_place_arrivee": "09",
+			"texte_place_arrivee": "09",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_100m": "",
+				"derniers_500m": "01'10\"3",
+				"derniers_1000m": "01'09\"2",
+				"tracking_created_at": "2023-02-10 17:41:10",
+				"tracking_updated_at": "2023-02-10 17:42:48",
+				"tracking_id_nav_partant": "36215462"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "a9f27774-ad7c-4136-8fdb-ba14c868f04f",
+				"nom_cheval": "GU D'HERIPRE"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p2-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 2,
+			"texte_place_arrivee": "Disqualifié",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'10\"5",
+				"derniers_1000m": "01'10\"3",
+				"tracking_created_at": "2023-02-10 17:45:33",
+				"tracking_updated_at": "2023-02-10 17:45:33",
+				"tracking_id_nav_partant": "36215463"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "b7aa31b5-5ce8-480a-9f05-dafdc78fddc4",
+				"nom_cheval": "FLAMME DU GOUTIER"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p3-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 3,
+			"num_place_arrivee": "02",
+			"texte_place_arrivee": "02",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'09\"8",
+				"derniers_1000m": "01'09\"2",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215464"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "9447a37b-5cdb-497d-a5fc-7bf56c6d00b8",
+				"nom_cheval": "ETONNANT"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p4-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 4,
+			"num_place_arrivee": "08",
+			"texte_place_arrivee": "08",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'09\"6",
+				"derniers_1000m": "01'08\"7",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215465"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "6cae4c90-388f-401e-8174-2fe405aab733",
+				"nom_cheval": "DELIA DU POMMEREUX"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p5-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 5,
+			"num_place_arrivee": "01",
+			"texte_place_arrivee": "01",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'09\"6",
+				"derniers_1000m": "01'09\"0",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215466"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "176f0676-cdf6-4f24-b98d-5e0f2f7eb2bb",
+				"nom_cheval": "ZARENNE FAS"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p6-png-2",
+				"updated_at": "2022-12-30T17:22:51+01:00"
+			},
+			"num_partant": 6,
+			"num_place_arrivee": "05",
+			"texte_place_arrivee": "05",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'10\"3",
+				"derniers_1000m": "01'10\"1",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215467"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "6c82a23d-8654-49cc-b649-fb32dd75b659",
+				"nom_cheval": "VERNISSAGE GRIF"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p7-png-1",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 7,
+			"num_place_arrivee": "06",
+			"texte_place_arrivee": "06",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'09\"9",
+				"derniers_1000m": "01'08\"6",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215468"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "a238b550-c42c-4d42-9bb0-5c6d0a4f6bea",
+				"nom_cheval": "BLEFF DIPA"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p8-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 8,
+			"num_place_arrivee": "11",
+			"texte_place_arrivee": "11",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'10\"1",
+				"derniers_1000m": "01'08\"9",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215469"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "c4b74aa6-d31d-4a83-9358-77276875bb6d",
+				"nom_cheval": "HOOKER BERRY"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p9-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 9,
+			"num_place_arrivee": "14",
+			"texte_place_arrivee": "14",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'11\"0",
+				"derniers_1000m": "01'10\"9",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215470"
+			}
+		},
+		{
+			"cheval": {
+				"uuid": "c7456ca4-390f-4044-b0ce-7b575a4df70d",
+				"nom_cheval": "HUSSARD DU LANDRET"
+			},
+			"casaque": {
+				"slug": "20230101-r1c4p10-png",
+				"updated_at": "2022-12-30T17:22:49+01:00"
+			},
+			"num_partant": 10,
+			"num_place_arrivee": "15",
+			"texte_place_arrivee": "15",
+			"interne_tracking_gps": {
+				"active": 1,
+				"derniers_500m": "01'11\"2",
+				"derniers_1000m": "01'10\"4",
+				"tracking_created_at": "2023-02-10 17:46:19",
+				"tracking_updated_at": "2023-02-10 17:46:19",
+				"tracking_id_nav_partant": "36215471"
+			}
+		}
+	],
+	"bet_links": {
+		"socialprono": "https://www.zeturf.fr/fr/course/2023-01-01/R1C4-equidia?prefill=&pid=311&aff=202331101"
+	},
+	"enjeu_s_g": {
+		"montant": 476988
+	},
+	"discipline": "Attelé",
+	"is_booster": false,
+	"world_pool": false,
+	"description": "INTERNATIONALE-AUTOSTART - GROUPE II",
+	"is_tirelire": true,
+	"type_course": "Groupe II",
+	"categ_course": "INTERNATIONALE-AUTOSTART",
+	"is_pick_five": false,
+	"pari_courses": [
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "Simple gagnant",
+				"code_pari": "1",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#4ba05a",
+				"titre": "Tiercé",
+				"code_pari": "11",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#4178bb",
+				"titre": "Quarté+",
+				"code_pari": "13",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "Simple placé",
+				"code_pari": "2",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#c3007d",
+				"titre": "Multi",
+				"code_pari": "20",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"booster": "500.000",
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#e40521",
+				"titre": "Quinté+",
+				"code_pari": "27",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#eb6608",
+				"titre": "Couplé gagnant",
+				"code_pari": "3",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#eb6608",
+				"titre": "Couplé placé",
+				"code_pari": "4",
+				"type_paris": "OFF"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Simple Gagnant",
+				"code_pari": "43",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Simple Placé",
+				"code_pari": "44",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Couplé Gagnant",
+				"code_pari": "45",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Couplé Placé",
+				"code_pari": "46",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-2sur4",
+				"code_pari": "48",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Tiercé",
+				"code_pari": "50",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Quarté+",
+				"code_pari": "51",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Multi",
+				"code_pari": "55",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"booster": "100.000",
+			"audience": "Nationale",
+			"pari_type": {
+				"titre": "e-Quinté+",
+				"code_pari": "57",
+				"type_paris": "ON"
+			}
+		},
+		{
+			"audience": "Nationale",
+			"pari_type": {
+				"color": "#5a2882",
+				"titre": "2 sur 4",
+				"code_pari": "8",
+				"type_paris": "OFF"
+			}
+		}
+	],
+	"is_quinte_plus": true,
+	"num_course_pmu": 4,
+	"typ_dep_course": "Autostart",
+	"video_course_id": "985062",
+	"lib_corde_course": "Corde à gauche",
+	"lib_piste_course": "Machefer",
+	"nbdeclare_course": 18,
+	"statut_course_id": 16,
+	"video_course_nom": "20230101_36021320_00000HR",
+	"real_heure_course": "2023-01-01T15:15:00+01:00",
+	"heure_depart_course": "15:15",
+	"lib_parcours_course": "Grande piste",
+	"liblong_prix_course": "PRIX D'AMERIQUE RACES ZETURF Q5",
+	"libcourt_prix_course": "PRIX D'AMERIQUE RACES ZETURF Q5",
+	"conditions_txt_course": "PRIX D'AMERIQUE RACES ZETURF Q5                                              Course 4 PRIX DE BOURGOGNE Groupe II Course Internationale Départ à l'Autostart 120.000. - Attelé. - 2.100 mètres (G. P.) 54.000, 30.000, 16.800, 9.600, 6.000, 2.400, 1.200. Pour 4 à 11 ans inclus (J à C), hongres exclus, ayant gagné au moins 160.000. Sont seules admises à driver les personnes ayant gagné au moins trente-cinq c ourses dont dix au trot attelé (en étant titulaire d'une autorisation de monter à titre professionnel). Une priorité de participation au Prix de Bourgogne est accordée aux 1er, 2ème et 3ème du Prix de Bretagne et du Prix du Bourbonnais, ainsi qu'aux gagnants du Prix Ténor de Baune et du Crité rium Continental du présent meeting, quels que soient leurs gains. Les 3 premiers du Prix du Bourgogne bénéficient d'une priorité de participati on dans le Prix de Belgique, le Prix d'Amérique, le Prix de France et le Prix de Paris du présent meeting. En cas de dead-heat, pour établir la liste des chevaux bénéficiant d'une prio rité de participation à une autre course, accordée à l'issue du Prix de Bourgogne, est retenu le concurrent ayant les g ains les plus élevés au moment de la déclaration de partants.",
+	"type_statut_course_id": "finished",
+	"montant_total_allocation": "120.000 euros"
+}

@@ -1,0 +1,7 @@
+.Rhistory
+*.nb.html
+data_acquisition/*.csv
+data/*.csv
+TODOLIST.txt
+README.md
+README.html

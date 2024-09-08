@@ -1,0 +1,66 @@
+{
+	"odds":[
+		{
+			"cheval": {
+				"nom_cheval": "LAGNU MAG"
+			},
+			"rapp_evol": 54,
+			"num_partant": 1
+		},
+		{
+			"cheval": {
+				"nom_cheval": "LUCKY JACKSON"
+			},
+			"rapp_evol": 6.6,
+			"num_partant: 2
+		}
+	],
+	"reunion": {
+		"hippodrome": {
+			"name": "PARIS-VINCENNES",
+			"country_code": "FRA"
+		},
+		"num_reunion": 1
+	},
+	"distance": 2700,
+	"discipline": "Attelé",
+	"type_course": "Europeene",
+	"categ_course": "Groupe II",
+	"num_course_pmu": 2,
+	"lib_corde_course": "Corde à gauche",
+	"lib_piste_course": "Machefer",
+	"real_heure_course": "2023-12-16T13:58:00+01:00",
+	"lib_parcours_course": "Grande piste",
+	"liblong_prix_course": "PRIX EMMANUEL MARGOUTY",
+	"montant_total_allocation": "120.000 euros",
+	"partants": [
+		{
+			"monte": {
+				"nom_monte": "M. ABRIVARD"
+			},
+			"cheval": {
+				"entraineur": {
+					"nom_entraineur": "B. BOURGOIN"
+				},
+				"nom_cheval": "LAGNU MAG",
+				"sexe_cheval": "M"
+			},
+			"num_partant": 1,
+			"texte_place_arrivee": "Disqualifié"
+		},
+		{
+			"monte": {
+				"nom_monte": "J.M. BAZIRE"
+			},
+			"cheval": {
+				"entraineur": {
+					"nom_entraineur": "J.M. BAZIRE"
+				},
+				"nom_cheval": "LUCKY JACKSON",
+				"sexe_cheval": "M"
+			},
+			"num_partant": 2,
+			"texte_place_arrivee": "01"
+		}
+	]
+}
