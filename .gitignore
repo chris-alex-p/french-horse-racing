@@ -1,4 +1,5 @@
 .Rhistory
+.spyproject
 *.nb.html
 data_acquisition/*.csv
 data/*.csv
