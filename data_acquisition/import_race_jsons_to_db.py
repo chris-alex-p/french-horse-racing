@@ -196,7 +196,7 @@ headers = {
 }
 
 # Read race calendar information from csv file
-csv_name = 'racesequidia_20190701_20190731.csv'
+csv_name = 'racesequidia_20190401_20190430.csv'
 with open(csv_name, 'rt', encoding = 'utf-8') as fin:
     cin = csv.reader(fin)
     races = [row for row in cin]
