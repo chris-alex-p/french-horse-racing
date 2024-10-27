@@ -1,4 +1,5 @@
 
+import logging
 from datetime import datetime
 import pandas as pd
 import requests
@@ -23,6 +24,15 @@ headers = {
     'Cache-Control': 'no-cache',
     'TE': 'trailers'
 }
+
+
+# Configure logging
+logging.basicConfig(
+    filename='req_reunions.log', level=logging.INFO, 
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
+
 
 def req_races_of_day(races_date: str) -> list[list[str]]:
     """Fetches the list of horse races for a given date from the 
@@ -65,15 +75,15 @@ def req_races_of_day(races_date: str) -> list[list[str]]:
                 ])
         return races_by_day
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching race calendar for {races_date}: {e}")
+        logger.error(f"Error fetching race calendar for {races_date}: {e}")
     return []
 
 
 
 # create list of dates
-start_date_str = '2019-07-01'
+start_date_str = '2019-12-01'
 start_date = datetime.strptime(start_date_str, '%Y-%m-%d')
-end_date_str = '2019-07-31'
+end_date_str = '2019-12-31'
 end_date = datetime.strptime(end_date_str, '%Y-%m-%d')
 
 date_list = pd.date_range(
