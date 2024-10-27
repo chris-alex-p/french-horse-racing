@@ -1,0 +1,66 @@
+---
+title: "Documentation for req_reunions.py"
+output: html_document
+date: "2024-10-23"
+---
+
+
+## Script Functionality
+
+The Python script retrieves daily horse race information for a specified date range from the Equidia API (https://api.equidia.fr/api/public/dailyreunions/). It then structures the data in a pandas DataFrame and saves it to a CSV file.
+
+#### Step-by-Step Breakdown:
+
+1. Imports:
+
+* `datetime from datetime`: Used for date manipulation.
+* `pandas as pd`: Used for data structuring and CSV creation.
+* `requests`: Used for making HTTP requests to the Equidia API.
+* `time`: Used for introducing a slight delay between API requests to avoid overloading the server.
+
+2. API Endpoint and Headers:
+
+* `equidia_api_url`: Stores the base URL for API requests.
+* `headers`: Defines a dictionary containing necessary headers for the API request, mimicking a regular browser request for better compatibility.
+
+3. `req_races_of_day` Function:
+
+* **Purpose:** Fetches a list of horse races from the Equidia API for a given date.
+* **Parameters:**
+  + `races_date` (str): The date for which to retrieve races, formatted as YYYY-MM-DD.
+* **Return Value:**
+  + `list[list[str]]`: A list of inner lists, where each inner list represents a race with the following details:
+    - `date` (str): The race date.
+    - `hippodrome` (str): The name of the racecourse.
+    - `pmu_num` (str): The PMU race number for that day.
+    - `discipline` (str): The race discipline (e.g., Attelé).
+* **Functionality:**
+  + Constructs the full API URL by appending `races_date` to the base URL.
+  + Makes a GET request to the API URL using headers.
+  + Raises an exception if the request fails.
+  + Parses the JSON response.
+  + Iterates through each meeting and course within the response:
+    - Extracts the race number (`num_reunion` and `num_course_pmu`).
+    - Constructs a unique race identifier (`reunion_race_num`).
+    - Appends a list containing `races_date`, `lib_reunion`, `reunion_race_num`, and `discipline` to the `races_by_day` list.
+  + Returns the `races_by_day` list on success, or an empty list if an exception occurs.
+
+4. Date Range and CSV File Creation:
+
+* `start_date_str` and `end_date_str`: Define the date range in YYYY-MM-DD format.
+* `start_date` and `end_date`: Convert the string dates to `datetime` objects.
+* `date_list`: Generates a list of dates in the specified range using `pandas.date_range` and formats them as YYYY-MM-DD.
+* `csv_name`: Constructs a descriptive CSV file name based on the start and end dates.
+
+5. Data Fetching and CSV Generation:
+
+* `races_month`: An empty list to accumulate daily race data.
+* Loop iterates through each `date` in `date_list`:
+  + Calls `req_races_of_day(date)` to retrieve race data for that date.
+  + Appends the retrieved data to `races_month`.
+  + Introduces a 0.25-second delay between API requests using `time.sleep(0.25)` to avoid overloading the Equidia server.
+* `races_df`: Creates a pandas DataFrame from `races_month` with columns named `date`, `hippodrome`, `pmu_num`, and `discipline`.
+* `races_df.to_csv(csv_name, index=False)`: Saves the DataFrame to a CSV file named `csv_name` without the index column.
+
+
+
