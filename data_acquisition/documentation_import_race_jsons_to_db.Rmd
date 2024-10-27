@@ -1,0 +1,100 @@
+---
+title: "Documentation for import_race_jsons_to_db.py"
+output: html_document
+date: "2024-10-23"
+---
+
+
+## Script Overview
+
+This Python script fetches race data (results, odds, race information) for individual races from the Equidia API (https://api.equidia.fr/api/public/dailyreunions/). It then logs successful downloads and errors to CSV files, and inserts the downloaded data into a PostgreSQL database.
+
+
+## Function Descriptions
+
+`download_race_data`
+
+* **Purpose:** Downloads race data for a specific race from the Equidia API.
+* **Parameters:**
+  + `race_date`: Date of the race in YYYY-MM-DD format (str).
+  + `hippodrome`: Name of the racecourse (str).
+  + `pmu_num`: PMU race number for that day (str).
+  + `headers`: Dictionary containing HTTP headers (dict).
+* **Returns:**
+  + A dictionary containing race results and info in JSON format (`dict`), or `None` if an error occurs.
+* **Functionality:**
+  + Constructs API URLs for various data categories (odds, pronostics, tracking, etc.) using `race_date` and `pmu_num`.
+  + Downloads the main results data from the constructed URL and logs success or failure.
+  + Loops through data categories, downloads data for each category, and logs success or failure.
+  + Encodes the complete race data as a JSON string.
+  + Returns the JSON string if successful, otherwise returns `None`.
+  
+  
+`log_successful_download`
+
+* **Purpose:** Logs a successful download of race data to a CSV file.
+* **Parameters:**
+  + `race_date`: Date of the race in YYYY-MM-DD format (str).
+  + `pmu_num`: PMU race number for that day (str).
+  + `hippodrome`: Name of the racecourse (str).
+  + `data_category` (optional): Category of downloaded data (defaults to "main_results", str).
+* **Returns:** None
+
+
+`log_download_error`
+
+* **Purpose:** Logs a download error to a CSV file.
+* **Parameters:**
+  + `race_date`: Date of the race in YYYY-MM-DD format (str).
+  + `pmu_num`: PMU race number for that day (str).
+  + `hippodrome`: Name of the racecourse (str).
+  + `data_category` (optional): Category of downloaded data (defaults to "main_results", str).
+  + `status_code` (optional): HTTP status code returned by the API (int).
+* **Returns:** None
+
+
+`insert_race_data`
+
+* **Purpose:** Inserts downloaded race data into a PostgreSQL database.
+* **Parameters:**
+  + `race_date`: Date of the race in YYYY-MM-DD format (str).
+  + `hippodrome`: Name of the racecourse (str).
+  + `pmu_num`: PMU race number for that day (str).
+  + `race_json`: Race data in JSON format (dict).
+* **Returns:** None
+* **Functionality:**
+  + Constructs a SQL INSERT statement with placeholders.
+  + Inserts the `race_date`, `hippodrome`, `pmu_num`, and `race_json` data into the database.
+  + Commits the changes after each successful insert.
+  + Logs success or failure.
+
+  
+## Main Script
+The main script performs the following steps:
+
+1. Sets the working directory to the script's location.
+
+2. Defines headers for API requests mimicking a browser.
+
+3. Reads race information from a CSV file (e.g. `racesequidia_20190701_20190731.csv`).
+
+4. Loads database connection details from environment variables.
+
+5. Establishes a connection to the PostgreSQL database.
+
+6. Loops through each race in the CSV data:
+
+  + Extracts `race_date`, `hippodrome`, and `pmu_num`.
+  + Calls `download_race_data` to retrieve race data.
+  + Calls `insert_race_data` to insert retrieved data into the database if successful.
+  + Introduces a 0.75-second delay between requests.
+
+7. Closes the database connection.
+
+
+## Additional Notes
+* The script uses CSV files (`successful_downloads.csv` and `download_errors.csv`) to track successful downloads and errors.
+* Database connection details (user, password, host, port, database) are loaded from environment variables
+
+
+
