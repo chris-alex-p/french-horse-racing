@@ -2,6 +2,7 @@
 .spyproject
 *.nb.html
 data_acquisition/*.csv
+data_acquisition/archiv
 data/*.csv
 TODOLIST.txt
 README.md
